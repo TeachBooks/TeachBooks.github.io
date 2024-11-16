@@ -8,37 +8,37 @@
 
 
 <url>
-  <loc>https://teachbooks.tudelft.nl/</loc>
+  <loc>https://teachbooks.io/</loc>
   <lastmod>2024-04-16T11:54:20+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://teachbooks.tudelft.nl/index.html</loc>
+  <loc>https://teachbooks.io/index.html</loc>
   <lastmod>2024-04-16T11:54:20+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://teachbooks.tudelft.nl/jupyter-book-manual/intro.html</loc>
+  <loc>https://teachbooks.io/manual/intro.html</loc>
   <lastmod>2024-04-16T13:35:57+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://teachbooks.tudelft.nl/jupyter-book-manual/features/live_code.html</loc>
+  <loc>https://teachbooks.io/manual/features/live_code.html</loc>
   <lastmod>2024-04-16T13:35:56+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://teachbooks.tudelft.nl/jupyter-book-manual/features/custom_toc.html</loc>
+  <loc>https://teachbooks.io/manual/features/custom_toc.html</loc>
   <lastmod>2024-04-16T13:35:55+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://teachbooks.tudelft.nl/jupyter-book-manual/features/custom_download.html</loc>
+  <loc>https://teachbooks.io/manual/features/custom_download.html</loc>
   <lastmod>2024-04-16T13:35:55+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://teachbooks.tudelft.nl/jupyter-book-manual/</loc>
+  <loc>https://teachbooks.io/manual/</loc>
   <lastmod>2024-04-16T13:35:57+00:00</lastmod>
   <priority>0.80</priority>
 </url>
@@ -68,202 +68,202 @@
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://teachbooks.tudelft.nl/jupyter-book-manual/installation-and-setup/user_types.html</loc>
+  <loc>https://teachbooks.io/manual/installation-and-setup/user_types.html</loc>
   <lastmod>2024-04-16T13:35:56+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://teachbooks.tudelft.nl/jupyter-book-manual/installation-and-setup/git.html</loc>
+  <loc>https://teachbooks.io/manual/installation-and-setup/git.html</loc>
   <lastmod>2024-04-16T13:35:56+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://teachbooks.tudelft.nl/jupyter-book-manual/installation-and-setup/overview.html</loc>
+  <loc>https://teachbooks.io/manual/installation-and-setup/overview.html</loc>
   <lastmod>2024-04-16T13:35:56+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://teachbooks.tudelft.nl/jupyter-book-manual/installation-and-setup/vscode-setup.html</loc>
+  <loc>https://teachbooks.io/manual/installation-and-setup/vscode-setup.html</loc>
   <lastmod>2024-04-16T13:35:56+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://teachbooks.tudelft.nl/jupyter-book-manual/installation-and-setup/git-setup_local.html</loc>
+  <loc>https://teachbooks.io/manual/installation-and-setup/git-setup_local.html</loc>
   <lastmod>2024-04-16T13:35:56+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://teachbooks.tudelft.nl/jupyter-book-manual/installation-and-setup/anaconda.html</loc>
+  <loc>https://teachbooks.io/manual/installation-and-setup/anaconda.html</loc>
   <lastmod>2024-04-16T13:35:56+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://teachbooks.tudelft.nl/jupyter-book-manual/installation-and-setup/git_bash_conda_vs-code.html</loc>
+  <loc>https://teachbooks.io/manual/installation-and-setup/git_bash_conda_vs-code.html</loc>
   <lastmod>2024-04-16T13:35:56+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://teachbooks.tudelft.nl/jupyter-book-manual/installation-and-setup/jupyter-book-setup.html</loc>
+  <loc>https://teachbooks.io/manual/installation-and-setup/jupyter-book-setup.html</loc>
   <lastmod>2024-04-16T13:35:56+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://teachbooks.tudelft.nl/jupyter-book-manual/workflows/githubtemplate.html</loc>
+  <loc>https://teachbooks.io/manual/workflows/githubtemplate.html</loc>
   <lastmod>2024-04-16T13:35:57+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://teachbooks.tudelft.nl/jupyter-book-manual/workflows/collaboration.html</loc>
+  <loc>https://teachbooks.io/manual/workflows/collaboration.html</loc>
   <lastmod>2024-04-16T13:35:57+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://teachbooks.tudelft.nl/jupyter-book-manual/workflows/milestones_issues.html</loc>
+  <loc>https://teachbooks.io/manual/workflows/milestones_issues.html</loc>
   <lastmod>2024-04-16T13:35:57+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://teachbooks.tudelft.nl/jupyter-book-manual/workflows/branches.html</loc>
+  <loc>https://teachbooks.io/manual/workflows/branches.html</loc>
   <lastmod>2024-04-16T13:35:57+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://teachbooks.tudelft.nl/jupyter-book-manual/workflows/edit_book.html</loc>
+  <loc>https://teachbooks.io/manual/workflows/edit_book.html</loc>
   <lastmod>2024-04-16T13:35:57+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://teachbooks.tudelft.nl/jupyter-book-manual/workflows/check_changes_online.html</loc>
+  <loc>https://teachbooks.io/manual/workflows/check_changes_online.html</loc>
   <lastmod>2024-04-16T13:35:57+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://teachbooks.tudelft.nl/jupyter-book-manual/workflows/merge_request.html</loc>
+  <loc>https://teachbooks.io/manual/workflows/merge_request.html</loc>
   <lastmod>2024-04-16T13:35:57+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://teachbooks.tudelft.nl/jupyter-book-manual/workflows/publish.html</loc>
+  <loc>https://teachbooks.io/manual/workflows/publish.html</loc>
   <lastmod>2024-04-16T13:35:57+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://teachbooks.tudelft.nl/jupyter-book-manual/basic-features/overview.html</loc>
+  <loc>https://teachbooks.io/manual/basic-features/overview.html</loc>
   <lastmod>2024-04-16T13:35:54+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://teachbooks.tudelft.nl/jupyter-book-manual/basic-features/recipes.html</loc>
+  <loc>https://teachbooks.io/manual/basic-features/recipes.html</loc>
   <lastmod>2024-04-16T13:35:54+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://teachbooks.tudelft.nl/jupyter-book-manual/basic-features/hypothesis.html</loc>
+  <loc>https://teachbooks.io/manual/basic-features/hypothesis.html</loc>
   <lastmod>2024-04-16T13:35:54+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://teachbooks.tudelft.nl/jupyter-book-manual/features/overview.html</loc>
+  <loc>https://teachbooks.io/manual/features/overview.html</loc>
   <lastmod>2024-04-16T13:35:56+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://teachbooks.tudelft.nl/jupyter-book-manual/features/interactive_element.html</loc>
+  <loc>https://teachbooks.io/manual/features/interactive_element.html</loc>
   <lastmod>2024-04-16T13:35:56+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://teachbooks.tudelft.nl/jupyter-book-manual/features/grasple.html</loc>
+  <loc>https://teachbooks.io/manual/features/grasple.html</loc>
   <lastmod>2024-04-16T13:35:55+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://teachbooks.tudelft.nl/jupyter-book-manual/features/h5p.html</loc>
+  <loc>https://teachbooks.io/manual/features/h5p.html</loc>
   <lastmod>2024-04-16T13:35:56+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://teachbooks.tudelft.nl/jupyter-book-manual/features/HTML_javascript.html</loc>
+  <loc>https://teachbooks.io/manual/features/HTML_javascript.html</loc>
   <lastmod>2024-04-16T13:35:55+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://teachbooks.tudelft.nl/jupyter-book-manual/features/adding_HTML_elements.html</loc>
+  <loc>https://teachbooks.io/manual/features/adding_HTML_elements.html</loc>
   <lastmod>2024-04-16T13:35:55+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://teachbooks.tudelft.nl/jupyter-book-manual/features/creating_basic_HTML_elements.html</loc>
+  <loc>https://teachbooks.io/manual/features/creating_basic_HTML_elements.html</loc>
   <lastmod>2024-04-16T13:35:55+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://teachbooks.tudelft.nl/jupyter-book-manual/features/python_interactivity.html</loc>
+  <loc>https://teachbooks.io/manual/features/python_interactivity.html</loc>
   <lastmod>2024-04-16T13:35:56+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://teachbooks.tudelft.nl/jupyter-book-manual/features/widgets.html</loc>
+  <loc>https://teachbooks.io/manual/features/widgets.html</loc>
   <lastmod>2024-04-16T13:35:56+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://teachbooks.tudelft.nl/jupyter-book-manual/features/exercise_checking.html</loc>
+  <loc>https://teachbooks.io/manual/features/exercise_checking.html</loc>
   <lastmod>2024-04-16T13:35:55+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://teachbooks.tudelft.nl/jupyter-book-manual/features/jupyterlite/jupyterlite.html</loc>
+  <loc>https://teachbooks.io/manual/features/jupyterlite/jupyterlite.html</loc>
   <lastmod>2024-04-16T13:35:56+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://teachbooks.tudelft.nl/jupyter-book-manual/features/jupyterlite/configuration.html</loc>
+  <loc>https://teachbooks.io/manual/features/jupyterlite/configuration.html</loc>
   <lastmod>2024-04-16T13:35:56+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://teachbooks.tudelft.nl/jupyter-book-manual/features/jupyterlite/including-jupyterlite.html</loc>
+  <loc>https://teachbooks.io/manual/features/jupyterlite/including-jupyterlite.html</loc>
   <lastmod>2024-04-16T13:35:56+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://teachbooks.tudelft.nl/jupyter-book-manual/examples/overview.html</loc>
+  <loc>https://teachbooks.io/manual/examples/overview.html</loc>
   <lastmod>2024-04-16T13:35:55+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://teachbooks.tudelft.nl/jupyter-book-manual/examples/h5p_examples.html</loc>
+  <loc>https://teachbooks.io/manual/examples/h5p_examples.html</loc>
   <lastmod>2024-04-16T13:35:55+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://teachbooks.tudelft.nl/jupyter-book-manual/examples/theory_questions.html</loc>
+  <loc>https://teachbooks.io/manual/examples/theory_questions.html</loc>
   <lastmod>2024-04-16T13:35:55+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://teachbooks.tudelft.nl/jupyter-book-manual/examples/interactive_templates.html</loc>
+  <loc>https://teachbooks.io/manual/examples/interactive_templates.html</loc>
   <lastmod>2024-04-16T13:35:55+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://teachbooks.tudelft.nl/jupyter-book-manual/examples/example_gumbel.html</loc>
+  <loc>https://teachbooks.io/manual/examples/example_gumbel.html</loc>
   <lastmod>2024-04-16T13:35:54+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://teachbooks.tudelft.nl/jupyter-book-manual/examples/example_quiz_interactive.html</loc>
+  <loc>https://teachbooks.io/manual/examples/example_quiz_interactive.html</loc>
   <lastmod>2024-04-16T13:35:55+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://teachbooks.tudelft.nl/jupyter-book-manual/examples/coding_theory_widgets.html</loc>
+  <loc>https://teachbooks.io/manual/examples/coding_theory_widgets.html</loc>
   <lastmod>2024-04-16T13:35:54+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://teachbooks.tudelft.nl/jupyter-book-manual/examples/parametric_questions.html</loc>
+  <loc>https://teachbooks.io/manual/examples/parametric_questions.html</loc>
   <lastmod>2024-04-16T13:35:55+00:00</lastmod>
   <priority>0.64</priority>
 </url>
@@ -578,17 +578,17 @@
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://teachbooks.tudelft.nl/jupyter-book-manual/_static/element_pdf_and_cdf.html</loc>
+  <loc>https://teachbooks.io/manual/_static/element_pdf_and_cdf.html</loc>
   <lastmod>2024-03-25T09:06:53+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://teachbooks.tudelft.nl/jupyter-book-manual/_static/element_render_box.html</loc>
+  <loc>https://teachbooks.io/manual/_static/element_render_box.html</loc>
   <lastmod>2024-04-10T14:54:28+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://teachbooks.tudelft.nl/jupyter-book-manual/lite/repl/index.html</loc>
+  <loc>https://teachbooks.io/manual/lite/repl/index.html</loc>
   <lastmod>1985-10-26T08:15:00+00:00</lastmod>
   <priority>0.51</priority>
 </url>

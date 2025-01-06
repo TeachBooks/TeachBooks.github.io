@@ -9,8 +9,8 @@
 
 <channel>
 	<title>k_gatt &#8211; TeachBooks</title>
-	<atom:link href="https://teachbooks.io/new_homepage/new_website/author/k_gatt/feed/" rel="self" type="application/rss+xml" />
-	<link>https://teachbooks.io/new_homepage/new_website/</link>
+	<atom:link href="https://teachbooks.io/author/k_gatt/feed/" rel="self" type="application/rss+xml" />
+	<link>https://teachbooks.io/</link>
 	<description></description>
 	<lastBuildDate>Mon, 23 Dec 2024 17:07:11 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=6.7.1</generator>
 
 <image>
-	<url>https://teachbooks.io/new_homepage/new_website/wp-content/uploads/2024/12/cropped-TB_favicon-32x32.png</url>
+	<url>https://teachbooks.io/wp-content/uploads/2024/12/cropped-TB_favicon-32x32.png</url>
 	<title>k_gatt &#8211; TeachBooks</title>
-	<link>https://teachbooks.io/new_homepage/new_website/</link>
+	<link>https://teachbooks.io/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Blog Test</title>
-		<link>https://teachbooks.io/new_homepage/new_website/blog-test/</link>
+		<link>https://teachbooks.io/blog-test/</link>
 		
 		<dc:creator><![CDATA[k_gatt]]></dc:creator>
 		<pubDate>Thu, 19 Dec 2024 17:44:07 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://teachbooks.io/new_homepage/new_website/?p=1847</guid>
+		<guid isPermaLink="false">https://teachbooks.io/?p=1847</guid>
 
 					<description><![CDATA[This is the first blog post of TeachBooks!]]></description>
 										<content:encoded><![CDATA[

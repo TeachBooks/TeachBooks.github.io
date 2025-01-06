@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for TeachBooks	</title>
-	<atom:link href="https://teachbooks.io/new_homepage/new_website/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://teachbooks.io/new_homepage/new_website/</link>
+	<atom:link href="https://teachbooks.io/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://teachbooks.io/</link>
 	<description></description>
 	<lastBuildDate>Mon, 06 Jan 2025 10:56:35 +0000</lastBuildDate>
 	<sy:updatePeriod>

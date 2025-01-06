@@ -1,7 +1,7 @@
 @font-face {
   font-family: "eicons";
-  src: url("https://teachbooks.io/new_homepage/new_website/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5_34_0");
-  src: url("https://teachbooks.io/new_homepage/new_website/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5_34_0#iefix") format("embedded-opentype"), url("https://teachbooks.io/new_homepage/new_website/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5_34_0") format("woff2"), url("https://teachbooks.io/new_homepage/new_website/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5_34_0") format("woff"), url("https://teachbooks.io/new_homepage/new_website/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5_34_0") format("truetype"), url("https://teachbooks.io/new_homepage/new_website/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5_34_0#eicon") format("svg");
+  src: url("https://teachbooks.io/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5_34_0");
+  src: url("https://teachbooks.io/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5_34_0#iefix") format("embedded-opentype"), url("https://teachbooks.io/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5_34_0") format("woff2"), url("https://teachbooks.io/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5_34_0") format("woff"), url("https://teachbooks.io/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5_34_0") format("truetype"), url("https://teachbooks.io/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5_34_0#eicon") format("svg");
   font-weight: normal;
   font-style: normal;
 }

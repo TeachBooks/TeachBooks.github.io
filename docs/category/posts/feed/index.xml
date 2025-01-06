@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Posts &#8211; TeachBooks</title>
-	<atom:link href="https://teachbooks.io/new_homepage/new_website/category/posts/feed/" rel="self" type="application/rss+xml" />
-	<link>https://teachbooks.io/new_homepage/new_website/</link>
+	<atom:link href="https://teachbooks.io/category/posts/feed/" rel="self" type="application/rss+xml" />
+	<link>https://teachbooks.io/</link>
 	<description></description>
 	<lastBuildDate>Mon, 06 Jan 2025 10:39:32 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=6.7.1</generator>
 
 <image>
-	<url>https://teachbooks.io/new_homepage/new_website/wp-content/uploads/2024/12/cropped-TB_favicon-32x32.png</url>
+	<url>https://teachbooks.io/wp-content/uploads/2024/12/cropped-TB_favicon-32x32.png</url>
 	<title>Posts &#8211; TeachBooks</title>
-	<link>https://teachbooks.io/new_homepage/new_website/</link>
+	<link>https://teachbooks.io/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>New Year New Stickers</title>
-		<link>https://teachbooks.io/new_homepage/new_website/new-year-new-stickers/</link>
+		<link>https://teachbooks.io/new-year-new-stickers/</link>
 		
 		<dc:creator><![CDATA[Tom van Woudenberg]]></dc:creator>
 		<pubDate>Mon, 06 Jan 2025 10:39:29 +0000</pubDate>
 				<category><![CDATA[Posts]]></category>
-		<guid isPermaLink="false">https://teachbooks.io/new_homepage/new_website/?p=2414</guid>
+		<guid isPermaLink="false">https://teachbooks.io/?p=2414</guid>
 
 					<description><![CDATA[As our previous pile of stickers had dried out, we proudly present our new stickers, designed by Veronica Comin! You [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -50,12 +50,12 @@
 			</item>
 		<item>
 		<title>Automatically update nested books</title>
-		<link>https://teachbooks.io/new_homepage/new_website/automatically-update-nested-books/</link>
+		<link>https://teachbooks.io/automatically-update-nested-books/</link>
 		
 		<dc:creator><![CDATA[Dennis den Ouden-van der Horst]]></dc:creator>
 		<pubDate>Fri, 03 Jan 2025 09:07:42 +0000</pubDate>
 				<category><![CDATA[Posts]]></category>
-		<guid isPermaLink="false">https://teachbooks.io/new_homepage/new_website/?p=2265</guid>
+		<guid isPermaLink="false">https://teachbooks.io/?p=2265</guid>
 
 					<description><![CDATA[We&#8217;ve implemented an improved way of updating nested books. Now it&#8217;s possible to automatically check for updates of your nested [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -71,12 +71,12 @@
 			</item>
 		<item>
 		<title>Email subscription now possible!</title>
-		<link>https://teachbooks.io/new_homepage/new_website/mail-subscription-now-possible/</link>
+		<link>https://teachbooks.io/mail-subscription-now-possible/</link>
 		
 		<dc:creator><![CDATA[Tom van Woudenberg]]></dc:creator>
 		<pubDate>Mon, 23 Dec 2024 16:58:11 +0000</pubDate>
 				<category><![CDATA[Posts]]></category>
-		<guid isPermaLink="false">https://teachbooks.io/new_homepage/new_website/?p=2013</guid>
+		<guid isPermaLink="false">https://teachbooks.io/?p=2013</guid>
 
 					<description><![CDATA[Hi there! We&#8217;ve introduced a mailing list! By signing up to this mailing list, we&#8217;d like to keep you updated [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -118,12 +118,12 @@
 			</item>
 		<item>
 		<title>Animation released</title>
-		<link>https://teachbooks.io/new_homepage/new_website/animation-released/</link>
+		<link>https://teachbooks.io/animation-released/</link>
 		
 		<dc:creator><![CDATA[Tom van Woudenberg]]></dc:creator>
 		<pubDate>Mon, 23 Dec 2024 10:09:14 +0000</pubDate>
 				<category><![CDATA[Posts]]></category>
-		<guid isPermaLink="false">https://teachbooks.io/new_homepage/new_website/?p=2298</guid>
+		<guid isPermaLink="false">https://teachbooks.io/?p=2298</guid>
 
 					<description><![CDATA[Thanks to Veronica Comin, we released an animation showing what TeachBooks is! It&#8217;s part of this website and can be [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -145,12 +145,12 @@
 			</item>
 		<item>
 		<title>TU Delft Theme release</title>
-		<link>https://teachbooks.io/new_homepage/new_website/tu-delft-thee-releases/</link>
+		<link>https://teachbooks.io/tu-delft-thee-releases/</link>
 		
 		<dc:creator><![CDATA[Dennis den Ouden-van der Horst]]></dc:creator>
 		<pubDate>Fri, 20 Dec 2024 09:18:38 +0000</pubDate>
 				<category><![CDATA[Posts]]></category>
-		<guid isPermaLink="false">https://teachbooks.io/new_homepage/new_website/?p=2272</guid>
+		<guid isPermaLink="false">https://teachbooks.io/?p=2272</guid>
 
 					<description><![CDATA[v1.0.1 for the TU Delft Theme is released. This is made for lecturers from Delft University of Technology to make [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -222,12 +222,12 @@
 			</item>
 		<item>
 		<title>Multilingual book</title>
-		<link>https://teachbooks.io/new_homepage/new_website/multilingual-book/</link>
+		<link>https://teachbooks.io/multilingual-book/</link>
 		
 		<dc:creator><![CDATA[Tom van Woudenberg]]></dc:creator>
 		<pubDate>Sun, 15 Dec 2024 11:26:34 +0000</pubDate>
 				<category><![CDATA[Posts]]></category>
-		<guid isPermaLink="false">https://teachbooks.io/new_homepage/new_website/?p=2310</guid>
+		<guid isPermaLink="false">https://teachbooks.io/?p=2310</guid>
 
 					<description><![CDATA[We described how to create multilingual books using our existing extension to create custom buttons in a TeachBook! A while [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -247,12 +247,12 @@
 			</item>
 		<item>
 		<title>Exercises in Template</title>
-		<link>https://teachbooks.io/new_homepage/new_website/exercises-in-template/</link>
+		<link>https://teachbooks.io/exercises-in-template/</link>
 		
 		<dc:creator><![CDATA[Tom van Woudenberg]]></dc:creator>
 		<pubDate>Fri, 13 Dec 2024 10:21:50 +0000</pubDate>
 				<category><![CDATA[Posts]]></category>
-		<guid isPermaLink="false">https://teachbooks.io/new_homepage/new_website/?p=2303</guid>
+		<guid isPermaLink="false">https://teachbooks.io/?p=2303</guid>
 
 					<description><![CDATA[We added exercises to our template! With these exercises, we try to get people started a bit more after taking [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -272,12 +272,12 @@
 			</item>
 		<item>
 		<title>Rich tool tips in your TeachBook!</title>
-		<link>https://teachbooks.io/new_homepage/new_website/rich-tool-tips-in-your-teachbook/</link>
+		<link>https://teachbooks.io/rich-tool-tips-in-your-teachbook/</link>
 		
 		<dc:creator><![CDATA[Dennis den Ouden-van der Horst]]></dc:creator>
 		<pubDate>Sun, 24 Nov 2024 10:01:12 +0000</pubDate>
 				<category><![CDATA[Posts]]></category>
-		<guid isPermaLink="false">https://teachbooks.io/new_homepage/new_website/?p=2295</guid>
+		<guid isPermaLink="false">https://teachbooks.io/?p=2295</guid>
 
 					<description><![CDATA[Sphinx-tippy allows you to create rich hover over tips. Whenever you hower over a link with your mouse, a preview [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -293,12 +293,12 @@
 			</item>
 		<item>
 		<title>Grasple extension released</title>
-		<link>https://teachbooks.io/new_homepage/new_website/grasple-extension-released/</link>
+		<link>https://teachbooks.io/grasple-extension-released/</link>
 		
 		<dc:creator><![CDATA[Dennis den Ouden-van der Horst]]></dc:creator>
 		<pubDate>Sun, 17 Nov 2024 11:37:23 +0000</pubDate>
 				<category><![CDATA[Posts]]></category>
-		<guid isPermaLink="false">https://teachbooks.io/new_homepage/new_website/?p=2313</guid>
+		<guid isPermaLink="false">https://teachbooks.io/?p=2313</guid>
 
 					<description><![CDATA[Earlier, Dani Balagué Guardia, created a Grasple extension, which is now published openly on GitHub and PyPi! The Sphinx Grasple [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -318,12 +318,12 @@
 			</item>
 		<item>
 		<title>Open-Education End-of-Year Impuls</title>
-		<link>https://teachbooks.io/new_homepage/new_website/open-education-end-of-year-impuls/</link>
+		<link>https://teachbooks.io/open-education-end-of-year-impuls/</link>
 		
 		<dc:creator><![CDATA[Tom van Woudenberg]]></dc:creator>
 		<pubDate>Tue, 01 Oct 2024 11:43:29 +0000</pubDate>
 				<category><![CDATA[Posts]]></category>
-		<guid isPermaLink="false">https://teachbooks.io/new_homepage/new_website/?p=2316</guid>
+		<guid isPermaLink="false">https://teachbooks.io/?p=2316</guid>
 
 					<description><![CDATA[For the end of 2024, we received an impuls funding from the Open Education program of Delft University of Technology. [&#8230;]]]></description>
 										<content:encoded><![CDATA[

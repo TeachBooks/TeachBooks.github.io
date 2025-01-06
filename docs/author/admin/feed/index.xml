@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Tom van Woudenberg &#8211; TeachBooks</title>
-	<atom:link href="https://teachbooks.io/new_homepage/new_website/author/admin/feed/" rel="self" type="application/rss+xml" />
-	<link>https://teachbooks.io/new_homepage/new_website/</link>
+	<atom:link href="https://teachbooks.io/author/admin/feed/" rel="self" type="application/rss+xml" />
+	<link>https://teachbooks.io/</link>
 	<description></description>
 	<lastBuildDate>Mon, 06 Jan 2025 10:39:32 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=6.7.1</generator>
 
 <image>
-	<url>https://teachbooks.io/new_homepage/new_website/wp-content/uploads/2024/12/cropped-TB_favicon-32x32.png</url>
+	<url>https://teachbooks.io/wp-content/uploads/2024/12/cropped-TB_favicon-32x32.png</url>
 	<title>Tom van Woudenberg &#8211; TeachBooks</title>
-	<link>https://teachbooks.io/new_homepage/new_website/</link>
+	<link>https://teachbooks.io/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>New Year New Stickers</title>
-		<link>https://teachbooks.io/new_homepage/new_website/new-year-new-stickers/</link>
+		<link>https://teachbooks.io/new-year-new-stickers/</link>
 		
 		<dc:creator><![CDATA[Tom van Woudenberg]]></dc:creator>
 		<pubDate>Mon, 06 Jan 2025 10:39:29 +0000</pubDate>
 				<category><![CDATA[Posts]]></category>
-		<guid isPermaLink="false">https://teachbooks.io/new_homepage/new_website/?p=2414</guid>
+		<guid isPermaLink="false">https://teachbooks.io/?p=2414</guid>
 
 					<description><![CDATA[As our previous pile of stickers had dried out, we proudly present our new stickers, designed by Veronica Comin! You [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -50,12 +50,12 @@
 			</item>
 		<item>
 		<title>Email subscription now possible!</title>
-		<link>https://teachbooks.io/new_homepage/new_website/mail-subscription-now-possible/</link>
+		<link>https://teachbooks.io/mail-subscription-now-possible/</link>
 		
 		<dc:creator><![CDATA[Tom van Woudenberg]]></dc:creator>
 		<pubDate>Mon, 23 Dec 2024 16:58:11 +0000</pubDate>
 				<category><![CDATA[Posts]]></category>
-		<guid isPermaLink="false">https://teachbooks.io/new_homepage/new_website/?p=2013</guid>
+		<guid isPermaLink="false">https://teachbooks.io/?p=2013</guid>
 
 					<description><![CDATA[Hi there! We&#8217;ve introduced a mailing list! By signing up to this mailing list, we&#8217;d like to keep you updated [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -97,12 +97,12 @@
 			</item>
 		<item>
 		<title>Animation released</title>
-		<link>https://teachbooks.io/new_homepage/new_website/animation-released/</link>
+		<link>https://teachbooks.io/animation-released/</link>
 		
 		<dc:creator><![CDATA[Tom van Woudenberg]]></dc:creator>
 		<pubDate>Mon, 23 Dec 2024 10:09:14 +0000</pubDate>
 				<category><![CDATA[Posts]]></category>
-		<guid isPermaLink="false">https://teachbooks.io/new_homepage/new_website/?p=2298</guid>
+		<guid isPermaLink="false">https://teachbooks.io/?p=2298</guid>
 
 					<description><![CDATA[Thanks to Veronica Comin, we released an animation showing what TeachBooks is! It&#8217;s part of this website and can be [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -124,12 +124,12 @@
 			</item>
 		<item>
 		<title>Multilingual book</title>
-		<link>https://teachbooks.io/new_homepage/new_website/multilingual-book/</link>
+		<link>https://teachbooks.io/multilingual-book/</link>
 		
 		<dc:creator><![CDATA[Tom van Woudenberg]]></dc:creator>
 		<pubDate>Sun, 15 Dec 2024 11:26:34 +0000</pubDate>
 				<category><![CDATA[Posts]]></category>
-		<guid isPermaLink="false">https://teachbooks.io/new_homepage/new_website/?p=2310</guid>
+		<guid isPermaLink="false">https://teachbooks.io/?p=2310</guid>
 
 					<description><![CDATA[We described how to create multilingual books using our existing extension to create custom buttons in a TeachBook! A while [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -149,12 +149,12 @@
 			</item>
 		<item>
 		<title>WND-conference</title>
-		<link>https://teachbooks.io/new_homepage/new_website/wnd-conference/</link>
+		<link>https://teachbooks.io/wnd-conference/</link>
 		
 		<dc:creator><![CDATA[Tom van Woudenberg]]></dc:creator>
 		<pubDate>Sat, 14 Dec 2024 09:31:31 +0000</pubDate>
 				<category><![CDATA[Events]]></category>
-		<guid isPermaLink="false">https://teachbooks.io/new_homepage/new_website/?p=2278</guid>
+		<guid isPermaLink="false">https://teachbooks.io/?p=2278</guid>
 
 					<description><![CDATA[We joined a national Dutch conference for high school physics teachers (Werkgroep Natuurkunde Didaktiek (WND) conferentie) to host a workshop [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -174,12 +174,12 @@
 			</item>
 		<item>
 		<title>Exercises in Template</title>
-		<link>https://teachbooks.io/new_homepage/new_website/exercises-in-template/</link>
+		<link>https://teachbooks.io/exercises-in-template/</link>
 		
 		<dc:creator><![CDATA[Tom van Woudenberg]]></dc:creator>
 		<pubDate>Fri, 13 Dec 2024 10:21:50 +0000</pubDate>
 				<category><![CDATA[Posts]]></category>
-		<guid isPermaLink="false">https://teachbooks.io/new_homepage/new_website/?p=2303</guid>
+		<guid isPermaLink="false">https://teachbooks.io/?p=2303</guid>
 
 					<description><![CDATA[We added exercises to our template! With these exercises, we try to get people started a bit more after taking [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -199,12 +199,12 @@
 			</item>
 		<item>
 		<title>SURF Onderwijsdagen</title>
-		<link>https://teachbooks.io/new_homepage/new_website/surf-onderwijsdagen/</link>
+		<link>https://teachbooks.io/surf-onderwijsdagen/</link>
 		
 		<dc:creator><![CDATA[Tom van Woudenberg]]></dc:creator>
 		<pubDate>Tue, 12 Nov 2024 09:43:26 +0000</pubDate>
 				<category><![CDATA[Events]]></category>
-		<guid isPermaLink="false">https://teachbooks.io/new_homepage/new_website/?p=2284</guid>
+		<guid isPermaLink="false">https://teachbooks.io/?p=2284</guid>
 
 					<description><![CDATA[We hosted a presentation at a national Dutch conference on education (SURF Onderwijsdagen) with the title: Online interactive textbooks: creating [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -224,12 +224,12 @@
 			</item>
 		<item>
 		<title>TU Delft Computational mechanics staff meeting</title>
-		<link>https://teachbooks.io/new_homepage/new_website/tu-delft-computational-mechanics-staff-meeting/</link>
+		<link>https://teachbooks.io/tu-delft-computational-mechanics-staff-meeting/</link>
 		
 		<dc:creator><![CDATA[Tom van Woudenberg]]></dc:creator>
 		<pubDate>Mon, 14 Oct 2024 12:58:44 +0000</pubDate>
 				<category><![CDATA[Events]]></category>
-		<guid isPermaLink="false">https://teachbooks.io/new_homepage/new_website/?p=2332</guid>
+		<guid isPermaLink="false">https://teachbooks.io/?p=2332</guid>
 
 					<description><![CDATA[During a TU Delft staff meeting of the department computational mechanics Tom van Woudenberg presented the use of TeachBooks in [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -245,12 +245,12 @@
 			</item>
 		<item>
 		<title>Open-Education End-of-Year Impuls</title>
-		<link>https://teachbooks.io/new_homepage/new_website/open-education-end-of-year-impuls/</link>
+		<link>https://teachbooks.io/open-education-end-of-year-impuls/</link>
 		
 		<dc:creator><![CDATA[Tom van Woudenberg]]></dc:creator>
 		<pubDate>Tue, 01 Oct 2024 11:43:29 +0000</pubDate>
 				<category><![CDATA[Posts]]></category>
-		<guid isPermaLink="false">https://teachbooks.io/new_homepage/new_website/?p=2316</guid>
+		<guid isPermaLink="false">https://teachbooks.io/?p=2316</guid>
 
 					<description><![CDATA[For the end of 2024, we received an impuls funding from the Open Education program of Delft University of Technology. [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -300,12 +300,12 @@
 			</item>
 		<item>
 		<title>TeachBooks Lunch ClUB</title>
-		<link>https://teachbooks.io/new_homepage/new_website/teachbooks-lunch-club/</link>
+		<link>https://teachbooks.io/teachbooks-lunch-club/</link>
 		
 		<dc:creator><![CDATA[Tom van Woudenberg]]></dc:creator>
 		<pubDate>Wed, 29 May 2024 12:04:18 +0000</pubDate>
 				<category><![CDATA[Events]]></category>
-		<guid isPermaLink="false">https://teachbooks.io/new_homepage/new_website/?p=2328</guid>
+		<guid isPermaLink="false">https://teachbooks.io/?p=2328</guid>
 
 					<description><![CDATA[Thank you for those of you that came to our lunch pitch on Wednesday, we were encouraged by the interest [&#8230;]]]></description>
 										<content:encoded><![CDATA[

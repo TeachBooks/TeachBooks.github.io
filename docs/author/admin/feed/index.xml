@@ -12,7 +12,7 @@
 	<atom:link href="https://teachbooks.io/author/admin/feed/" rel="self" type="application/rss+xml" />
 	<link>https://teachbooks.io/</link>
 	<description></description>
-	<lastBuildDate>Mon, 06 Jan 2025 10:39:32 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 09 Jan 2025 12:42:37 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,31 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>New Website</title>
+		<link>https://teachbooks.io/new-website/</link>
+		
+		<dc:creator><![CDATA[Tom van Woudenberg]]></dc:creator>
+		<pubDate>Thu, 09 Jan 2025 12:42:35 +0000</pubDate>
+				<category><![CDATA[Posts]]></category>
+		<guid isPermaLink="false">https://teachbooks.io/?p=2422</guid>
+
+					<description><![CDATA[It&#8217;s here! You already found it! Marianna Diamanta and Katia Gatt have been working hard on this new website! No [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>It&#8217;s here! You already found it!</p>
+
+
+
+<p>Marianna Diamanta and Katia Gatt have been working hard on this new website! No JupyterBook page this time, but a WordPress website! With this new website we&#8217;ll promote the TeachBooks community and keep you posted on updates around our tooling, manual, template and on events.</p>
+
+
+
+<p>Marianna and Katia are now finalizing the layout of the website. If you&#8217;ve any comments, let us know in a <a href="https://github.com/orgs/TeachBooks/discussions">GitHub Discussion </a>or send us an email at <a href="mailto:info@teachbooks.io">info@teachbooks.io</a>!</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>New Year New Stickers</title>
 		<link>https://teachbooks.io/new-year-new-stickers/</link>
 		
@@ -293,37 +318,6 @@
 
 <li>Integration of <a href="https://prime-applets.ewi.tudelft.nl/portfolio/course-graph">Course Graph from PRIME</a> with books</li>
 </ul>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>TeachBooks Lunch ClUB</title>
-		<link>https://teachbooks.io/teachbooks-lunch-club/</link>
-		
-		<dc:creator><![CDATA[Tom van Woudenberg]]></dc:creator>
-		<pubDate>Wed, 29 May 2024 12:04:18 +0000</pubDate>
-				<category><![CDATA[Events]]></category>
-		<guid isPermaLink="false">https://teachbooks.io/?p=2328</guid>
-
-					<description><![CDATA[Thank you for those of you that came to our lunch pitch on Wednesday, we were encouraged by the interest [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<p>Thank you for those of you that came to our lunch pitch on Wednesday, we were encouraged by the interest in our education projects, and look forward to seeing how you incorporate it in your own teaching practice! For those who could not make it, you can find the slides and a recording of the presentation using the links provided below. Please also consider filling out a survey about open education materials (online books in particular); this is part of a collaboration with colleagues from the Faculty of Applied Sciences, and your input will help us continue to develop software and obtain resources (e.g., more TA’s!) to help you use these tools in the future.</p>
-
-
-
-<ul class="wp-block-list">
-<li>Slides and additional resources available at:&nbsp;<a href="https://teachbooks.tudelft.nl/doi.org/10.5281/zenodo.11378196">doi.org/10.5281/zenodo.11378196</a></li>
-
-
-
-<li>Recording of the presentation:&nbsp;<a href="https://teachbooks.tudelft.nl/youtu.be/MJT_EuWKjY0">youtu.be/MJT_EuWKjY0</a></li>
-</ul>
-
-
-
-<p></p>
 ]]></content:encoded>
 					
 		

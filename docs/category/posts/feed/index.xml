@@ -12,7 +12,7 @@
 	<atom:link href="https://teachbooks.io/category/posts/feed/" rel="self" type="application/rss+xml" />
 	<link>https://teachbooks.io/</link>
 	<description></description>
-	<lastBuildDate>Mon, 06 Jan 2025 10:39:32 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 09 Jan 2025 12:42:37 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,31 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>New Website</title>
+		<link>https://teachbooks.io/new-website/</link>
+		
+		<dc:creator><![CDATA[Tom van Woudenberg]]></dc:creator>
+		<pubDate>Thu, 09 Jan 2025 12:42:35 +0000</pubDate>
+				<category><![CDATA[Posts]]></category>
+		<guid isPermaLink="false">https://teachbooks.io/?p=2422</guid>
+
+					<description><![CDATA[It&#8217;s here! You already found it! Marianna Diamanta and Katia Gatt have been working hard on this new website! No [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>It&#8217;s here! You already found it!</p>
+
+
+
+<p>Marianna Diamanta and Katia Gatt have been working hard on this new website! No JupyterBook page this time, but a WordPress website! With this new website we&#8217;ll promote the TeachBooks community and keep you posted on updates around our tooling, manual, template and on events.</p>
+
+
+
+<p>Marianna and Katia are now finalizing the layout of the website. If you&#8217;ve any comments, let us know in a <a href="https://github.com/orgs/TeachBooks/discussions">GitHub Discussion </a>or send us an email at <a href="mailto:info@teachbooks.io">info@teachbooks.io</a>!</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>New Year New Stickers</title>
 		<link>https://teachbooks.io/new-year-new-stickers/</link>
 		
@@ -311,61 +336,6 @@
 
 
 <p>The repository is on <a href="https://github.com/TeachBooks/Sphinx-Grasple-public" data-type="link" data-id="https://github.com/TeachBooks/Sphinx-Grasple-public">GitHub</a>, and the documentation is also shown in our <a href="https://teachbooks.io/manual/external/Sphinx-Grasple-public/README.html">manual</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Open-Education End-of-Year Impuls</title>
-		<link>https://teachbooks.io/open-education-end-of-year-impuls/</link>
-		
-		<dc:creator><![CDATA[Tom van Woudenberg]]></dc:creator>
-		<pubDate>Tue, 01 Oct 2024 11:43:29 +0000</pubDate>
-				<category><![CDATA[Posts]]></category>
-		<guid isPermaLink="false">https://teachbooks.io/?p=2316</guid>
-
-					<description><![CDATA[For the end of 2024, we received an impuls funding from the Open Education program of Delft University of Technology. [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<p>For the end of 2024, we received an impuls funding from the Open Education program of Delft University of Technology.</p>
-
-
-
-<p>For the end of 2024 we planned to: organise how-to-start-trainings, improve our how-to manual, promotional and informational materials and continue development of various software tools</p>
-
-
-
-<p>This money is used to:</p>
-
-
-
-<ul class="wp-block-list">
-<li>Creating and hosting training on creating books organized with Bètasteunpunt Zuid-Holland</li>
-
-
-
-<li>Adding visualisation to manual, website and tools to explain collaborative book-editing process, software tools and promotion material</li>
-
-
-
-<li>Software development for logging visitor data of existing books and integrated tooling</li>
-
-
-
-<li>Software development for TU Delft themed books (colours, fonts, etc.)</li>
-
-
-
-<li>Software development for easy creation of of interactive figures:</li>
-
-
-
-<li>Software development for personal annotating of book and downloading offline version of book in both .md, .ipynb, .html and .pdf format:</li>
-
-
-
-<li>Integration of <a href="https://prime-applets.ewi.tudelft.nl/portfolio/course-graph">Course Graph from PRIME</a> with books</li>
-</ul>
 ]]></content:encoded>
 					
 		

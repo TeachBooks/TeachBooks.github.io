@@ -439,7 +439,7 @@ document.addEventListener("DOMContentLoaded", function(){ 				window.addEventLis
 					} );
 				} );
 							window.addEventListener( 'DOMContentLoaded', () => {
-					const blockScope = document.querySelector( '.uagb-block-73ce9fe9' );
+					const blockScope = document.querySelector( '.uagb-block-a1326b67' );
 					if ( ! blockScope ) {
 						return;
 					}
@@ -459,7 +459,7 @@ document.addEventListener("DOMContentLoaded", function(){ 				window.addEventLis
 					} );
 				} );
 							window.addEventListener( 'DOMContentLoaded', () => {
-					const blockScope = document.querySelector( '.uagb-block-b8efa150' );
+					const blockScope = document.querySelector( '.uagb-block-e79590df' );
 					if ( ! blockScope ) {
 						return;
 					}
@@ -479,7 +479,7 @@ document.addEventListener("DOMContentLoaded", function(){ 				window.addEventLis
 					} );
 				} );
 							window.addEventListener( 'DOMContentLoaded', () => {
-					const blockScope = document.querySelector( '.uagb-block-8bd4c82a' );
+					const blockScope = document.querySelector( '.uagb-block-61216c4d' );
 					if ( ! blockScope ) {
 						return;
 					}

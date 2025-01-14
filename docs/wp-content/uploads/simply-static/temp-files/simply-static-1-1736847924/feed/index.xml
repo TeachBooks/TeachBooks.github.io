@@ -12,7 +12,7 @@
 	<atom:link href="https://teachbooks.io/feed/" rel="self" type="application/rss+xml" />
 	<link>https://teachbooks.io/</link>
 	<description></description>
-	<lastBuildDate>Thu, 09 Jan 2025 12:42:37 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 14 Jan 2025 09:45:05 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,45 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Custom colours in book</title>
+		<link>https://teachbooks.io/custom-colours-in-book/</link>
+		
+		<dc:creator><![CDATA[Dennis den Ouden-van der Horst]]></dc:creator>
+		<pubDate>Tue, 14 Jan 2025 09:44:31 +0000</pubDate>
+				<category><![CDATA[Posts]]></category>
+		<guid isPermaLink="false">https://teachbooks.io/?p=2437</guid>
+
+					<description><![CDATA[Dennis van den Ouden-van der Horst created a new sphinx extension which allow you to use CSS named colours and [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Dennis van den Ouden-van der Horst created a new sphinx extension which allow you to use CSS named colours and custom colours in various items in your book:</p>
+
+
+
+<ul class="wp-block-list">
+<li>LaTeX</li>
+
+
+
+<li>Markdown text</li>
+
+
+
+<li>Admonitions!</li>
+</ul>
+
+
+
+<p>In combination with the <a href="https://github.com/TeachBooks/Sphinx-Image-Inverter" data-type="link" data-id="https://github.com/TeachBooks/Sphinx-Image-Inverter">Sphinx Image Inverter</a> this allows you to use the same colours in images, text and LaTeX, in both light and dark mode!</p>
+
+
+
+<p>The custom names extension is released as a sphinx extension in this <a href="https://github.com/TeachBooks/Sphinx-Named-Colors">GitHub repository</a>. It’s described in the <a href="https://teachbooks.io/manual/external/Sphinx-Named-Colors/README.html" data-type="link" data-id="https://teachbooks.io/manual/external/Sphinx-Named-Colors/README.html">manual</a> too with some colours.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>New Website</title>
 		<link>https://teachbooks.io/new-website/</link>
 		
@@ -311,31 +350,6 @@
 
 
 <p>The presentation is available here (in Dutch): <a href="https://doi.org/10.5281/zenodo.14454542">https://doi.org/10.5281/zenodo.14454542</a></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Exercises in Template</title>
-		<link>https://teachbooks.io/exercises-in-template/</link>
-		
-		<dc:creator><![CDATA[Tom van Woudenberg]]></dc:creator>
-		<pubDate>Fri, 13 Dec 2024 10:21:50 +0000</pubDate>
-				<category><![CDATA[Posts]]></category>
-		<guid isPermaLink="false">https://teachbooks.io/?p=2303</guid>
-
-					<description><![CDATA[We added exercises to our template! With these exercises, we try to get people started a bit more after taking [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<p>We added exercises to our <a href="https://teachbooks.io/template/exercises.html" data-type="link" data-id="https://teachbooks.io/template/exercises.html">template</a>! With these exercises, we try to get people started a bit more after taking our template to create their first book.</p>
-
-
-
-<p>The exercises focus on the key components of a book: the content, the table of contents and the configuration file. Furthermore, it shows you the potential of git in the book-editing process and how the <a href="https://teachbooks.io/manual/external/deploy-book-workflow/README.html" data-type="link" data-id="https://teachbooks.io/manual/external/deploy-book-workflow/README.html">TeachBooks deploy-book-workflow</a> takes care of all the parsing stuff in the background.</p>
-
-
-
-<p>We plan on adding much more exercises, so feel free to contribute!</p>
 ]]></content:encoded>
 					
 		

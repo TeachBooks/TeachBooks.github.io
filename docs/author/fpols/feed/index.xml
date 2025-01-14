@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Freek Pols &#8211; TeachBooks</title>
+	<atom:link href="https://teachbooks.io/author/fpols/feed/" rel="self" type="application/rss+xml" />
+	<link>https://teachbooks.io/</link>
+	<description></description>
+	<lastBuildDate>Tue, 14 Jan 2025 09:30:48 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>https://teachbooks.io/wp-content/uploads/2024/12/cropped-TB_favicon-32x32.png</url>
+	<title>Freek Pols &#8211; TeachBooks</title>
+	<link>https://teachbooks.io/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Betasteunpunt training</title>
+		<link>https://teachbooks.io/betasteunpunt-training/</link>
+		
+		<dc:creator><![CDATA[Freek Pols]]></dc:creator>
+		<pubDate>Thu, 28 Nov 2024 15:00:00 +0000</pubDate>
+				<category><![CDATA[Events]]></category>
+		<guid isPermaLink="false">https://teachbooks.io/?p=2431</guid>
+
+					<description><![CDATA[We provided an in-house training with Betasteunpunt Zuid Holland. In this four hour training session, we introduced 29 participants &#8211; [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>We provided an in-house training with <a href="https://www.onderwijsnetwerkzuidholland.nl/" data-type="link" data-id="https://www.onderwijsnetwerkzuidholland.nl/">Betasteunpunt Zuid Holland</a>. In this four hour training session, we introduced 29 participants &#8211; ranging from secondary school teachers to associate professors, and from teacher educators to retired medical doctors &#8211; to the basics of Jupyter Books.</p>
+
+
+
+<p> <img fetchpriority="high" decoding="async" width="2048" height="1153" class="wp-image-2432" style="width: 400px" src="https://teachbooks.io/wp-content/uploads/2025/01/tud-training.jpg" alt="" srcset="https://teachbooks.io/wp-content/uploads/2025/01/tud-training.jpg 2048w, https://teachbooks.io/wp-content/uploads/2025/01/tud-training-300x169.jpg 300w, https://teachbooks.io/wp-content/uploads/2025/01/tud-training-1024x577.jpg 1024w, https://teachbooks.io/wp-content/uploads/2025/01/tud-training-768x432.jpg 768w, https://teachbooks.io/wp-content/uploads/2025/01/tud-training-1536x865.jpg 1536w, https://teachbooks.io/wp-content/uploads/2025/01/tud-training-1200x676.jpg 1200w" sizes="(max-width: 2048px) 100vw, 2048px" /></p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

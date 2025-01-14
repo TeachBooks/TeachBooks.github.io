@@ -12,7 +12,7 @@
 	<atom:link href="https://teachbooks.io/category/posts/feed/" rel="self" type="application/rss+xml" />
 	<link>https://teachbooks.io/</link>
 	<description></description>
-	<lastBuildDate>Thu, 09 Jan 2025 12:42:37 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 14 Jan 2025 09:45:05 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,45 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Custom colours in book</title>
+		<link>https://teachbooks.io/custom-colours-in-book/</link>
+		
+		<dc:creator><![CDATA[Dennis den Ouden-van der Horst]]></dc:creator>
+		<pubDate>Tue, 14 Jan 2025 09:44:31 +0000</pubDate>
+				<category><![CDATA[Posts]]></category>
+		<guid isPermaLink="false">https://teachbooks.io/?p=2437</guid>
+
+					<description><![CDATA[Dennis van den Ouden-van der Horst created a new sphinx extension which allow you to use CSS named colours and [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Dennis van den Ouden-van der Horst created a new sphinx extension which allow you to use CSS named colours and custom colours in various items in your book:</p>
+
+
+
+<ul class="wp-block-list">
+<li>LaTeX</li>
+
+
+
+<li>Markdown text</li>
+
+
+
+<li>Admonitions!</li>
+</ul>
+
+
+
+<p>In combination with the <a href="https://github.com/TeachBooks/Sphinx-Image-Inverter" data-type="link" data-id="https://github.com/TeachBooks/Sphinx-Image-Inverter">Sphinx Image Inverter</a> this allows you to use the same colours in images, text and LaTeX, in both light and dark mode!</p>
+
+
+
+<p>The custom names extension is released as a sphinx extension in this <a href="https://github.com/TeachBooks/Sphinx-Named-Colors">GitHub repository</a>. It’s described in the <a href="https://teachbooks.io/manual/external/Sphinx-Named-Colors/README.html" data-type="link" data-id="https://teachbooks.io/manual/external/Sphinx-Named-Colors/README.html">manual</a> too with some colours.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>New Website</title>
 		<link>https://teachbooks.io/new-website/</link>
 		
@@ -311,31 +350,6 @@
 
 
 <p><a href="https://github.com/TeachBooks/teachbooks-sphinx-tippy" data-type="link" data-id="https://github.com/TeachBooks/teachbooks-sphinx-tippy">The repository is part of our TeachBooks GitHub organization</a>. <a href="https://teachbooks.io/TeachBooks-sphinx-tippy-Example">An example book</a> is made to show you how you can use it!</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Grasple extension released</title>
-		<link>https://teachbooks.io/grasple-extension-released/</link>
-		
-		<dc:creator><![CDATA[Dennis den Ouden-van der Horst]]></dc:creator>
-		<pubDate>Sun, 17 Nov 2024 11:37:23 +0000</pubDate>
-				<category><![CDATA[Posts]]></category>
-		<guid isPermaLink="false">https://teachbooks.io/?p=2313</guid>
-
-					<description><![CDATA[Earlier, Dani Balagué Guardia, created a Grasple extension, which is now published openly on GitHub and PyPi! The Sphinx Grasple [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<p>Earlier, Dani Balagué Guardia, created a Grasple extension, which is now published openly on GitHub and PyPi!</p>
-
-
-
-<p>The Sphinx Grasple extension makes it possible to easily insert Grasple exercises into a book. It allows you to easily add Grasple question with some formatting and, more importantly, the creation of QR codes in the PDF version of the page.</p>
-
-
-
-<p>The repository is on <a href="https://github.com/TeachBooks/Sphinx-Grasple-public" data-type="link" data-id="https://github.com/TeachBooks/Sphinx-Grasple-public">GitHub</a>, and the documentation is also shown in our <a href="https://teachbooks.io/manual/external/Sphinx-Grasple-public/README.html">manual</a>.</p>
 ]]></content:encoded>
 					
 		

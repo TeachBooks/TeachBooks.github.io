@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	Comments for TeachBooks	</title>
-	<atom:link href="https://teachbooks.io/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://teachbooks.io/</link>
+	Comments on: Workshop at IIT Madras	</title>
+	<atom:link href="https://teachbooks.io/workshop-at-iit-madras/feed/" rel="self" type="application/rss+xml" />
+	<link>https://teachbooks.io/workshop-at-iit-madras/</link>
 	<description></description>
-	<lastBuildDate>Wed, 15 Jan 2025 10:33:07 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 15 Jan 2025 10:15:46 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>

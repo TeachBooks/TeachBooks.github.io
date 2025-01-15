@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Robert Lanzafame &#8211; TeachBooks</title>
+	<atom:link href="https://teachbooks.io/author/r_lanzafame/feed/" rel="self" type="application/rss+xml" />
+	<link>https://teachbooks.io/</link>
+	<description></description>
+	<lastBuildDate>Wed, 15 Jan 2025 10:15:46 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>https://teachbooks.io/wp-content/uploads/2024/12/cropped-TB_favicon-32x32.png</url>
+	<title>Robert Lanzafame &#8211; TeachBooks</title>
+	<link>https://teachbooks.io/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Workshop at IIT Madras</title>
+		<link>https://teachbooks.io/workshop-at-iit-madras/</link>
+		
+		<dc:creator><![CDATA[Robert Lanzafame]]></dc:creator>
+		<pubDate>Tue, 26 Nov 2024 10:11:42 +0000</pubDate>
+				<category><![CDATA[Events]]></category>
+		<guid isPermaLink="false">https://teachbooks.io/?p=2440</guid>
+
+					<description><![CDATA[Robert Lanzafame, together with Sandra Verhagen gave multiple workshops at Indian Institute of Technology Madras on oa. how we use [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Robert Lanzafame, together with Sandra Verhagen gave multiple workshops at Indian Institute of Technology Madras on oa. how we use TeachBooks in our teaching.</p>
+
+
+
+<p>More information will follow soon!</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

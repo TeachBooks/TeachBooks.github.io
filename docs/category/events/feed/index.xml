@@ -12,7 +12,7 @@
 	<atom:link href="https://teachbooks.io/category/events/feed/" rel="self" type="application/rss+xml" />
 	<link>https://teachbooks.io/</link>
 	<description></description>
-	<lastBuildDate>Tue, 14 Jan 2025 09:30:48 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 15 Jan 2025 10:15:46 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -72,6 +72,27 @@
 
 
 <p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Workshop at IIT Madras</title>
+		<link>https://teachbooks.io/workshop-at-iit-madras/</link>
+		
+		<dc:creator><![CDATA[Robert Lanzafame]]></dc:creator>
+		<pubDate>Tue, 26 Nov 2024 10:11:42 +0000</pubDate>
+				<category><![CDATA[Events]]></category>
+		<guid isPermaLink="false">https://teachbooks.io/?p=2440</guid>
+
+					<description><![CDATA[Robert Lanzafame, together with Sandra Verhagen gave multiple workshops at Indian Institute of Technology Madras on oa. how we use [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Robert Lanzafame, together with Sandra Verhagen gave multiple workshops at Indian Institute of Technology Madras on oa. how we use TeachBooks in our teaching.</p>
+
+
+
+<p>More information will follow soon!</p>
 ]]></content:encoded>
 					
 		

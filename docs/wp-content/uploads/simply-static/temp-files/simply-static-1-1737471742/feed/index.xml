@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>TeachBooks</title>
+	<atom:link href="https://teachbooks.io/feed/" rel="self" type="application/rss+xml" />
+	<link>https://teachbooks.io/</link>
+	<description></description>
+	<lastBuildDate>Tue, 14 Jan 2025 09:45:05 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>https://teachbooks.io/wp-content/uploads/2024/12/cropped-TB_favicon-32x32.png</url>
+	<title>TeachBooks</title>
+	<link>https://teachbooks.io/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Custom colours in book</title>
+		<link>https://teachbooks.io/custom-colours-in-book/</link>
+		
+		<dc:creator><![CDATA[Dennis den Ouden-van der Horst]]></dc:creator>
+		<pubDate>Tue, 14 Jan 2025 09:44:31 +0000</pubDate>
+				<category><![CDATA[Posts]]></category>
+		<guid isPermaLink="false">https://teachbooks.io/?p=2437</guid>
+
+					<description><![CDATA[Dennis van den Ouden-van der Horst created a new sphinx extension which allow you to use CSS named colours and [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Dennis van den Ouden-van der Horst created a new sphinx extension which allow you to use CSS named colours and custom colours in various items in your book:</p>
+
+
+
+<ul class="wp-block-list">
+<li>LaTeX</li>
+
+
+
+<li>Markdown text</li>
+
+
+
+<li>Admonitions!</li>
+</ul>
+
+
+
+<p>In combination with the <a href="https://github.com/TeachBooks/Sphinx-Image-Inverter" data-type="link" data-id="https://github.com/TeachBooks/Sphinx-Image-Inverter">Sphinx Image Inverter</a> this allows you to use the same colours in images, text and LaTeX, in both light and dark mode!</p>
+
+
+
+<p>The custom names extension is released as a sphinx extension in this <a href="https://github.com/TeachBooks/Sphinx-Named-Colors">GitHub repository</a>. It’s described in the <a href="https://teachbooks.io/manual/external/Sphinx-Named-Colors/README.html" data-type="link" data-id="https://teachbooks.io/manual/external/Sphinx-Named-Colors/README.html">manual</a> too with some colours.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>New Website</title>
+		<link>https://teachbooks.io/new-website/</link>
+		
+		<dc:creator><![CDATA[Tom van Woudenberg]]></dc:creator>
+		<pubDate>Thu, 09 Jan 2025 12:42:35 +0000</pubDate>
+				<category><![CDATA[Posts]]></category>
+		<guid isPermaLink="false">https://teachbooks.io/?p=2422</guid>
+
+					<description><![CDATA[It&#8217;s here! You already found it! Marianna Diamanta and Katia Gatt have been working hard on this new website! No [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>It&#8217;s here! You already found it!</p>
+
+
+
+<p>Marianna Diamanta and Katia Gatt have been working hard on this new website! No JupyterBook page this time, but a WordPress website! With this new website we&#8217;ll promote the TeachBooks community and keep you posted on updates around our tooling, manual, template and on events.</p>
+
+
+
+<p>Marianna and Katia are now finalizing the layout of the website. If you&#8217;ve any comments, let us know in a <a href="https://github.com/orgs/TeachBooks/discussions">GitHub Discussion </a>or send us an email at <a href="mailto:info@teachbooks.io">info@teachbooks.io</a>!</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>New Year New Stickers</title>
+		<link>https://teachbooks.io/new-year-new-stickers/</link>
+		
+		<dc:creator><![CDATA[Tom van Woudenberg]]></dc:creator>
+		<pubDate>Mon, 06 Jan 2025 10:39:29 +0000</pubDate>
+				<category><![CDATA[Posts]]></category>
+		<guid isPermaLink="false">https://teachbooks.io/?p=2414</guid>
+
+					<description><![CDATA[As our previous pile of stickers had dried out, we proudly present our new stickers, designed by Veronica Comin! You [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>As our previous pile of stickers had dried out, we proudly present our new stickers, designed by Veronica Comin!</p>
+
+
+
+<p>You want some? Reach out to us at info@teachbooks.io or meet us at one of our events!</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Automatically update nested books</title>
+		<link>https://teachbooks.io/automatically-update-nested-books/</link>
+		
+		<dc:creator><![CDATA[Dennis den Ouden-van der Horst]]></dc:creator>
+		<pubDate>Fri, 03 Jan 2025 09:07:42 +0000</pubDate>
+				<category><![CDATA[Posts]]></category>
+		<guid isPermaLink="false">https://teachbooks.io/?p=2265</guid>
+
+					<description><![CDATA[We&#8217;ve implemented an improved way of updating nested books. Now it&#8217;s possible to automatically check for updates of your nested [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>We&#8217;ve implemented an improved way of updating nested books. Now it&#8217;s possible to automatically check for updates of your nested books and to enforce updates without the need to clone your books and all of its submodules!</p>
+
+
+
+<p>Using the out-of-the box GitHub Dependabot, applied to our specific case of nested books, you can make this possible yourself! This is described in our <a href="https://teachbooks.io/manual/external/Nested-Books/README.html#the-external-book-is-updated" data-type="link" data-id="https://teachbooks.io/manual/external/Nested-Books/README.html#the-external-book-is-updated">manual</a>! There are options to set the interval on checking for updates or a manual trigger. If there&#8217;s an update, a pull request will be created in your repository listing the new commits. In combination with the <a href="https://teachbooks.io/manual/external/deploy-book-workflow/README.html" data-type="link" data-id="https://teachbooks.io/manual/external/deploy-book-workflow/README.html">deploy-book-workflow</a> you can easily preview the update in your browser</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Email subscription now possible!</title>
+		<link>https://teachbooks.io/mail-subscription-now-possible/</link>
+		
+		<dc:creator><![CDATA[Tom van Woudenberg]]></dc:creator>
+		<pubDate>Mon, 23 Dec 2024 16:58:11 +0000</pubDate>
+				<category><![CDATA[Posts]]></category>
+		<guid isPermaLink="false">https://teachbooks.io/?p=2013</guid>
+
+					<description><![CDATA[Hi there! We&#8217;ve introduced a mailing list! By signing up to this mailing list, we&#8217;d like to keep you updated [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Hi there!</p>
+
+
+
+<p>We&#8217;ve introduced a mailing list! By signing up to this <a href="https://docs.google.com/forms/d/e/1FAIpQLSd_8767gh7m1OvLyODcMDFIBM_w2Kh1sVmz7A_OFUahzTx3Tw/viewform?usp=header" data-type="link" data-id="https://docs.google.com/forms/d/e/1FAIpQLSd_8767gh7m1OvLyODcMDFIBM_w2Kh1sVmz7A_OFUahzTx3Tw/viewform?usp=header">mailing list</a>, we&#8217;d like to keep you updated on:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Events</li>
+
+
+
+<li>Updated on tooling</li>
+
+
+
+<li>Updated on the manual and template</li>
+
+
+
+<li>Big community milestones</li>
+</ul>
+
+
+
+<p>Would you like to receive these updates? Sign up <a href="https://docs.google.com/forms/d/e/1FAIpQLSd_8767gh7m1OvLyODcMDFIBM_w2Kh1sVmz7A_OFUahzTx3Tw/viewform?usp=header" data-type="link" data-id="https://docs.google.com/forms/d/e/1FAIpQLSd_8767gh7m1OvLyODcMDFIBM_w2Kh1sVmz7A_OFUahzTx3Tw/viewform?usp=header">here</a>!</p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Animation released</title>
+		<link>https://teachbooks.io/animation-released/</link>
+		
+		<dc:creator><![CDATA[Tom van Woudenberg]]></dc:creator>
+		<pubDate>Mon, 23 Dec 2024 10:09:14 +0000</pubDate>
+				<category><![CDATA[Posts]]></category>
+		<guid isPermaLink="false">https://teachbooks.io/?p=2298</guid>
+
+					<description><![CDATA[Thanks to Veronica Comin, we released an animation showing what TeachBooks is! It&#8217;s part of this website and can be [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Thanks to Veronica Comin, we released an animation showing what TeachBooks is! It&#8217;s part of this website and can be used to show people the potential of interactive textbooks and explain how the TeachBooks community makes it possible to use them!</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="ast-oembed-container " style="height: 100%;"><iframe title="TeachBooks" width="1200" height="675" src="https://www.youtube.com/embed/x2eonqw5M6o?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+</div></figure>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>TU Delft Theme release</title>
+		<link>https://teachbooks.io/tu-delft-thee-releases/</link>
+		
+		<dc:creator><![CDATA[Dennis den Ouden-van der Horst]]></dc:creator>
+		<pubDate>Fri, 20 Dec 2024 09:18:38 +0000</pubDate>
+				<category><![CDATA[Posts]]></category>
+		<guid isPermaLink="false">https://teachbooks.io/?p=2272</guid>
+
+					<description><![CDATA[v1.0.1 for the TU Delft Theme is released. This is made for lecturers from Delft University of Technology to make [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>v1.0.1 for the TU Delft Theme is released. This is made for lecturers from Delft University of Technology to make sure their books are following their corporate style. However, feel free to fork and reuse it for yourself!</p>
+
+
+
+<p>The TU Delft Theme is released as a sphinx extension in this <a href="https://github.com/TeachBooks/Sphinx-TUDelft-theme" data-type="link" data-id="https://github.com/TeachBooks/Sphinx-TUDelft-theme">GitHub repository</a>. It&#8217;s described in the <a href="https://teachbooks.io/manual/external/Sphinx-TUDelft-theme/README.html" data-type="link" data-id="https://teachbooks.io/manual/external/Sphinx-TUDelft-theme/README.html">manual</a> too. Among others, it&#8217;s set colours for the various visualisations inside your book:</p>
+
+
+
+<ul class="wp-block-list">
+<li>admonitions (e.g. hint, note, tip, error, etc.),</li>
+
+
+
+<li>exercises,</li>
+
+
+
+<li>buttons,</li>
+
+
+
+<li>badges,</li>
+
+
+
+<li>LaTeX,</li>
+
+
+
+<li>the primary and secondary color of the book (mainly used for typesetting links),</li>
+
+
+
+<li>&#8230;</li>
+</ul>
+
+
+
+<p> and adds:</p>
+
+
+
+<ul class="wp-block-list">
+<li>a Delft University of Technology logo;</li>
+
+
+
+<li>a Delft University of Technology favicon;</li>
+
+
+
+<li>the Delft University of Technology preferred fonts;</li>
+
+
+
+<li>&#8230;</li>
+</ul>
+
+
+
+<p>Check it out at <a href="https://github.com/TeachBooks/Sphinx-TUDelft-theme">https://github.com/TeachBooks/Sphinx-TUDelft-theme</a>!</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Blog Test</title>
+		<link>https://teachbooks.io/blog-test/</link>
+		
+		<dc:creator><![CDATA[k_gatt]]></dc:creator>
+		<pubDate>Thu, 19 Dec 2024 17:44:07 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://teachbooks.io/?p=1847</guid>
+
+					<description><![CDATA[This is the first blog post of TeachBooks!]]></description>
+										<content:encoded><![CDATA[
+<p>This is the first blog post of TeachBooks!</p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Multilingual book</title>
+		<link>https://teachbooks.io/multilingual-book/</link>
+		
+		<dc:creator><![CDATA[Tom van Woudenberg]]></dc:creator>
+		<pubDate>Sun, 15 Dec 2024 11:26:34 +0000</pubDate>
+				<category><![CDATA[Posts]]></category>
+		<guid isPermaLink="false">https://teachbooks.io/?p=2310</guid>
+
+					<description><![CDATA[We described how to create multilingual books using our existing extension to create custom buttons in a TeachBook! A while [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>We described how to create multilingual books using our existing extension to create custom buttons in a TeachBook!</p>
+
+
+
+<p>A while back, Luuk Fröling created a <a href="https://github.com/TeachBooks/Sphinx-launch-buttons">Sphinx extension</a> which adds an additional button in your TeachBook. Now, Julie Kirsch and Tom van Woudenberg <a href="https://teachbooks.io/manual/external/Sphinx-launch-buttons/README.html">described how to use that effectively to create a multilingual book</a>.</p>
+
+
+
+<p>This feature is already implemented in the <a href="https://teachbooks.io/files-and-folders/">Files and Folders</a> book! Check it out!</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>WND-conference</title>
+		<link>https://teachbooks.io/wnd-conference/</link>
+		
+		<dc:creator><![CDATA[Tom van Woudenberg]]></dc:creator>
+		<pubDate>Sat, 14 Dec 2024 09:31:31 +0000</pubDate>
+				<category><![CDATA[Events]]></category>
+		<guid isPermaLink="false">https://teachbooks.io/?p=2278</guid>
+
+					<description><![CDATA[We joined a national Dutch conference for high school physics teachers (Werkgroep Natuurkunde Didaktiek (WND) conferentie) to host a workshop [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>We joined a national Dutch conference for high school physics teachers (<a href="https://wndconferentie.nl/" data-type="link" data-id="https://wndconferentie.nl/">Werkgroep Natuurkunde Didaktiek (WND) conferentie</a>) to host a workshop on how to create a TeachBook! Robert Lanzafame, Julie Kirsch and Tom van Woudenberg led this interactive session!</p>
+
+
+
+<p>The room was filled with around 30 enthusiastic teachers who all started their first book! The workshop started with a presentation how TeachBooks are used in various courses at Delft univeristy of Technology. Afterwards, the attendees made their own book using <a href="https://github.com/TeachBooks/template" data-type="link" data-id="https://github.com/TeachBooks/template">our template</a> and the included exercises. The main focus was how git can be used to effectively share and reuse open educational material and how to contribute to material from others!</p>
+
+
+
+<p>The presentation is available here (in Dutch): <a href="https://doi.org/10.5281/zenodo.14454542">https://doi.org/10.5281/zenodo.14454542</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

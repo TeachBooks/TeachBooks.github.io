@@ -1098,4 +1098,1004 @@ document.addEventListener("DOMContentLoaded", function(){ 				window.addEventLis
 						}
 					} );
 				} );
+							window.addEventListener( 'DOMContentLoaded', () => {
+					const blockScope = document.querySelector( '.uagb-block-f0724ee4' );
+					if ( ! blockScope ) {
+						return;
+					}
+
+					const anchorElement = blockScope.querySelector('a');
+					if (!anchorElement) {
+						return;
+					} 
+
+					 
+					blockScope.addEventListener('keydown', (event) => {
+						if ( 13 === event.keyCode || 32 === event.keyCode ) {
+							event.preventDefault();
+							 
+							anchorElement.click();	
+						}
+					} );
+				} );
+							window.addEventListener( 'DOMContentLoaded', () => {
+					const blockScope = document.querySelector( '.uagb-block-6905af65' );
+					if ( ! blockScope ) {
+						return;
+					}
+
+					const anchorElement = blockScope.querySelector('a');
+					if (!anchorElement) {
+						return;
+					} 
+
+					 
+					blockScope.addEventListener('keydown', (event) => {
+						if ( 13 === event.keyCode || 32 === event.keyCode ) {
+							event.preventDefault();
+							 
+							anchorElement.click();	
+						}
+					} );
+				} );
+							window.addEventListener( 'DOMContentLoaded', () => {
+					const blockScope = document.querySelector( '.uagb-block-011ab9bb' );
+					if ( ! blockScope ) {
+						return;
+					}
+
+					const anchorElement = blockScope.querySelector('a');
+					if (!anchorElement) {
+						return;
+					} 
+
+					 
+					blockScope.addEventListener('keydown', (event) => {
+						if ( 13 === event.keyCode || 32 === event.keyCode ) {
+							event.preventDefault();
+							 
+							anchorElement.click();	
+						}
+					} );
+				} );
+							window.addEventListener( 'DOMContentLoaded', () => {
+					const blockScope = document.querySelector( '.uagb-block-9e863173' );
+					if ( ! blockScope ) {
+						return;
+					}
+
+					const anchorElement = blockScope.querySelector('a');
+					if (!anchorElement) {
+						return;
+					} 
+
+					 
+					blockScope.addEventListener('keydown', (event) => {
+						if ( 13 === event.keyCode || 32 === event.keyCode ) {
+							event.preventDefault();
+							 
+							anchorElement.click();	
+						}
+					} );
+				} );
+							window.addEventListener( 'DOMContentLoaded', () => {
+					const blockScope = document.querySelector( '.uagb-block-598889fa' );
+					if ( ! blockScope ) {
+						return;
+					}
+
+					const anchorElement = blockScope.querySelector('a');
+					if (!anchorElement) {
+						return;
+					} 
+
+					 
+					blockScope.addEventListener('keydown', (event) => {
+						if ( 13 === event.keyCode || 32 === event.keyCode ) {
+							event.preventDefault();
+							 
+							anchorElement.click();	
+						}
+					} );
+				} );
+							window.addEventListener( 'DOMContentLoaded', () => {
+					const blockScope = document.querySelector( '.uagb-block-cea0a601' );
+					if ( ! blockScope ) {
+						return;
+					}
+
+					const anchorElement = blockScope.querySelector('a');
+					if (!anchorElement) {
+						return;
+					} 
+
+					 
+					blockScope.addEventListener('keydown', (event) => {
+						if ( 13 === event.keyCode || 32 === event.keyCode ) {
+							event.preventDefault();
+							 
+							anchorElement.click();	
+						}
+					} );
+				} );
+							window.addEventListener( 'DOMContentLoaded', () => {
+					const blockScope = document.querySelector( '.uagb-block-0caac33a' );
+					if ( ! blockScope ) {
+						return;
+					}
+
+					const anchorElement = blockScope.querySelector('a');
+					if (!anchorElement) {
+						return;
+					} 
+
+					 
+					blockScope.addEventListener('keydown', (event) => {
+						if ( 13 === event.keyCode || 32 === event.keyCode ) {
+							event.preventDefault();
+							 
+							anchorElement.click();	
+						}
+					} );
+				} );
+							window.addEventListener( 'DOMContentLoaded', () => {
+					const blockScope = document.querySelector( '.uagb-block-e01afec2' );
+					if ( ! blockScope ) {
+						return;
+					}
+
+					const anchorElement = blockScope.querySelector('a');
+					if (!anchorElement) {
+						return;
+					} 
+
+					 
+					blockScope.addEventListener('keydown', (event) => {
+						if ( 13 === event.keyCode || 32 === event.keyCode ) {
+							event.preventDefault();
+							 
+							anchorElement.click();	
+						}
+					} );
+				} );
+							window.addEventListener( 'DOMContentLoaded', () => {
+					const blockScope = document.querySelector( '.uagb-block-a265cc17' );
+					if ( ! blockScope ) {
+						return;
+					}
+
+					const anchorElement = blockScope.querySelector('a');
+					if (!anchorElement) {
+						return;
+					} 
+
+					 
+					blockScope.addEventListener('keydown', (event) => {
+						if ( 13 === event.keyCode || 32 === event.keyCode ) {
+							event.preventDefault();
+							 
+							anchorElement.click();	
+						}
+					} );
+				} );
+							window.addEventListener( 'DOMContentLoaded', () => {
+					const blockScope = document.querySelector( '.uagb-block-ff022411' );
+					if ( ! blockScope ) {
+						return;
+					}
+
+					const anchorElement = blockScope.querySelector('a');
+					if (!anchorElement) {
+						return;
+					} 
+
+					 
+					blockScope.addEventListener('keydown', (event) => {
+						if ( 13 === event.keyCode || 32 === event.keyCode ) {
+							event.preventDefault();
+							 
+							anchorElement.click();	
+						}
+					} );
+				} );
+							window.addEventListener( 'DOMContentLoaded', () => {
+					const blockScope = document.querySelector( '.uagb-block-87c08b50' );
+					if ( ! blockScope ) {
+						return;
+					}
+
+					const anchorElement = blockScope.querySelector('a');
+					if (!anchorElement) {
+						return;
+					} 
+
+					 
+					blockScope.addEventListener('keydown', (event) => {
+						if ( 13 === event.keyCode || 32 === event.keyCode ) {
+							event.preventDefault();
+							 
+							anchorElement.click();	
+						}
+					} );
+				} );
+							window.addEventListener( 'DOMContentLoaded', () => {
+					const blockScope = document.querySelector( '.uagb-block-7523b39b' );
+					if ( ! blockScope ) {
+						return;
+					}
+
+					const anchorElement = blockScope.querySelector('a');
+					if (!anchorElement) {
+						return;
+					} 
+
+					 
+					blockScope.addEventListener('keydown', (event) => {
+						if ( 13 === event.keyCode || 32 === event.keyCode ) {
+							event.preventDefault();
+							 
+							anchorElement.click();	
+						}
+					} );
+				} );
+							window.addEventListener( 'DOMContentLoaded', () => {
+					const blockScope = document.querySelector( '.uagb-block-88e9f75d' );
+					if ( ! blockScope ) {
+						return;
+					}
+
+					const anchorElement = blockScope.querySelector('a');
+					if (!anchorElement) {
+						return;
+					} 
+
+					 
+					blockScope.addEventListener('keydown', (event) => {
+						if ( 13 === event.keyCode || 32 === event.keyCode ) {
+							event.preventDefault();
+							 
+							anchorElement.click();	
+						}
+					} );
+				} );
+							window.addEventListener( 'DOMContentLoaded', () => {
+					const blockScope = document.querySelector( '.uagb-block-f6c190ef' );
+					if ( ! blockScope ) {
+						return;
+					}
+
+					const anchorElement = blockScope.querySelector('a');
+					if (!anchorElement) {
+						return;
+					} 
+
+					 
+					blockScope.addEventListener('keydown', (event) => {
+						if ( 13 === event.keyCode || 32 === event.keyCode ) {
+							event.preventDefault();
+							 
+							anchorElement.click();	
+						}
+					} );
+				} );
+							window.addEventListener( 'DOMContentLoaded', () => {
+					const blockScope = document.querySelector( '.uagb-block-50f8a35b' );
+					if ( ! blockScope ) {
+						return;
+					}
+
+					const anchorElement = blockScope.querySelector('a');
+					if (!anchorElement) {
+						return;
+					} 
+
+					 
+					blockScope.addEventListener('keydown', (event) => {
+						if ( 13 === event.keyCode || 32 === event.keyCode ) {
+							event.preventDefault();
+							 
+							anchorElement.click();	
+						}
+					} );
+				} );
+							window.addEventListener( 'DOMContentLoaded', () => {
+					const blockScope = document.querySelector( '.uagb-block-6f0b0922' );
+					if ( ! blockScope ) {
+						return;
+					}
+
+					const anchorElement = blockScope.querySelector('a');
+					if (!anchorElement) {
+						return;
+					} 
+
+					 
+					blockScope.addEventListener('keydown', (event) => {
+						if ( 13 === event.keyCode || 32 === event.keyCode ) {
+							event.preventDefault();
+							 
+							anchorElement.click();	
+						}
+					} );
+				} );
+							window.addEventListener( 'DOMContentLoaded', () => {
+					const blockScope = document.querySelector( '.uagb-block-2c662155' );
+					if ( ! blockScope ) {
+						return;
+					}
+
+					const anchorElement = blockScope.querySelector('a');
+					if (!anchorElement) {
+						return;
+					} 
+
+					 
+					blockScope.addEventListener('keydown', (event) => {
+						if ( 13 === event.keyCode || 32 === event.keyCode ) {
+							event.preventDefault();
+							 
+							anchorElement.click();	
+						}
+					} );
+				} );
+							window.addEventListener( 'DOMContentLoaded', () => {
+					const blockScope = document.querySelector( '.uagb-block-3ab82c13' );
+					if ( ! blockScope ) {
+						return;
+					}
+
+					const anchorElement = blockScope.querySelector('a');
+					if (!anchorElement) {
+						return;
+					} 
+
+					 
+					blockScope.addEventListener('keydown', (event) => {
+						if ( 13 === event.keyCode || 32 === event.keyCode ) {
+							event.preventDefault();
+							 
+							anchorElement.click();	
+						}
+					} );
+				} );
+							window.addEventListener( 'DOMContentLoaded', () => {
+					const blockScope = document.querySelector( '.uagb-block-e04f4577' );
+					if ( ! blockScope ) {
+						return;
+					}
+
+					const anchorElement = blockScope.querySelector('a');
+					if (!anchorElement) {
+						return;
+					} 
+
+					 
+					blockScope.addEventListener('keydown', (event) => {
+						if ( 13 === event.keyCode || 32 === event.keyCode ) {
+							event.preventDefault();
+							 
+							anchorElement.click();	
+						}
+					} );
+				} );
+							window.addEventListener( 'DOMContentLoaded', () => {
+					const blockScope = document.querySelector( '.uagb-block-4cb8498a' );
+					if ( ! blockScope ) {
+						return;
+					}
+
+					const anchorElement = blockScope.querySelector('a');
+					if (!anchorElement) {
+						return;
+					} 
+
+					 
+					blockScope.addEventListener('keydown', (event) => {
+						if ( 13 === event.keyCode || 32 === event.keyCode ) {
+							event.preventDefault();
+							 
+							anchorElement.click();	
+						}
+					} );
+				} );
+							window.addEventListener( 'DOMContentLoaded', () => {
+					const blockScope = document.querySelector( '.uagb-block-187a486b' );
+					if ( ! blockScope ) {
+						return;
+					}
+
+					const anchorElement = blockScope.querySelector('a');
+					if (!anchorElement) {
+						return;
+					} 
+
+					 
+					blockScope.addEventListener('keydown', (event) => {
+						if ( 13 === event.keyCode || 32 === event.keyCode ) {
+							event.preventDefault();
+							 
+							anchorElement.click();	
+						}
+					} );
+				} );
+							window.addEventListener( 'DOMContentLoaded', () => {
+					const blockScope = document.querySelector( '.uagb-block-eda36727' );
+					if ( ! blockScope ) {
+						return;
+					}
+
+					const anchorElement = blockScope.querySelector('a');
+					if (!anchorElement) {
+						return;
+					} 
+
+					 
+					blockScope.addEventListener('keydown', (event) => {
+						if ( 13 === event.keyCode || 32 === event.keyCode ) {
+							event.preventDefault();
+							 
+							anchorElement.click();	
+						}
+					} );
+				} );
+							window.addEventListener( 'DOMContentLoaded', () => {
+					const blockScope = document.querySelector( '.uagb-block-129e3d6a' );
+					if ( ! blockScope ) {
+						return;
+					}
+
+					const anchorElement = blockScope.querySelector('a');
+					if (!anchorElement) {
+						return;
+					} 
+
+					 
+					blockScope.addEventListener('keydown', (event) => {
+						if ( 13 === event.keyCode || 32 === event.keyCode ) {
+							event.preventDefault();
+							 
+							anchorElement.click();	
+						}
+					} );
+				} );
+							window.addEventListener( 'DOMContentLoaded', () => {
+					const blockScope = document.querySelector( '.uagb-block-a0c9406b' );
+					if ( ! blockScope ) {
+						return;
+					}
+
+					const anchorElement = blockScope.querySelector('a');
+					if (!anchorElement) {
+						return;
+					} 
+
+					 
+					blockScope.addEventListener('keydown', (event) => {
+						if ( 13 === event.keyCode || 32 === event.keyCode ) {
+							event.preventDefault();
+							 
+							anchorElement.click();	
+						}
+					} );
+				} );
+							window.addEventListener( 'DOMContentLoaded', () => {
+					const blockScope = document.querySelector( '.uagb-block-aed687fd' );
+					if ( ! blockScope ) {
+						return;
+					}
+
+					const anchorElement = blockScope.querySelector('a');
+					if (!anchorElement) {
+						return;
+					} 
+
+					 
+					blockScope.addEventListener('keydown', (event) => {
+						if ( 13 === event.keyCode || 32 === event.keyCode ) {
+							event.preventDefault();
+							 
+							anchorElement.click();	
+						}
+					} );
+				} );
+							window.addEventListener( 'DOMContentLoaded', () => {
+					const blockScope = document.querySelector( '.uagb-block-62dcee1d' );
+					if ( ! blockScope ) {
+						return;
+					}
+
+					const anchorElement = blockScope.querySelector('a');
+					if (!anchorElement) {
+						return;
+					} 
+
+					 
+					blockScope.addEventListener('keydown', (event) => {
+						if ( 13 === event.keyCode || 32 === event.keyCode ) {
+							event.preventDefault();
+							 
+							anchorElement.click();	
+						}
+					} );
+				} );
+							window.addEventListener( 'DOMContentLoaded', () => {
+					const blockScope = document.querySelector( '.uagb-block-c89267f0' );
+					if ( ! blockScope ) {
+						return;
+					}
+
+					const anchorElement = blockScope.querySelector('a');
+					if (!anchorElement) {
+						return;
+					} 
+
+					 
+					blockScope.addEventListener('keydown', (event) => {
+						if ( 13 === event.keyCode || 32 === event.keyCode ) {
+							event.preventDefault();
+							 
+							anchorElement.click();	
+						}
+					} );
+				} );
+							window.addEventListener( 'DOMContentLoaded', () => {
+					const blockScope = document.querySelector( '.uagb-block-85a414ed' );
+					if ( ! blockScope ) {
+						return;
+					}
+
+					const anchorElement = blockScope.querySelector('a');
+					if (!anchorElement) {
+						return;
+					} 
+
+					 
+					blockScope.addEventListener('keydown', (event) => {
+						if ( 13 === event.keyCode || 32 === event.keyCode ) {
+							event.preventDefault();
+							 
+							anchorElement.click();	
+						}
+					} );
+				} );
+							window.addEventListener( 'DOMContentLoaded', () => {
+					const blockScope = document.querySelector( '.uagb-block-57c57819' );
+					if ( ! blockScope ) {
+						return;
+					}
+
+					const anchorElement = blockScope.querySelector('a');
+					if (!anchorElement) {
+						return;
+					} 
+
+					 
+					blockScope.addEventListener('keydown', (event) => {
+						if ( 13 === event.keyCode || 32 === event.keyCode ) {
+							event.preventDefault();
+							 
+							anchorElement.click();	
+						}
+					} );
+				} );
+							window.addEventListener( 'DOMContentLoaded', () => {
+					const blockScope = document.querySelector( '.uagb-block-b475b9f3' );
+					if ( ! blockScope ) {
+						return;
+					}
+
+					const anchorElement = blockScope.querySelector('a');
+					if (!anchorElement) {
+						return;
+					} 
+
+					 
+					blockScope.addEventListener('keydown', (event) => {
+						if ( 13 === event.keyCode || 32 === event.keyCode ) {
+							event.preventDefault();
+							 
+							anchorElement.click();	
+						}
+					} );
+				} );
+							window.addEventListener( 'DOMContentLoaded', () => {
+					const blockScope = document.querySelector( '.uagb-block-ad374f7c' );
+					if ( ! blockScope ) {
+						return;
+					}
+
+					const anchorElement = blockScope.querySelector('a');
+					if (!anchorElement) {
+						return;
+					} 
+
+					 
+					blockScope.addEventListener('keydown', (event) => {
+						if ( 13 === event.keyCode || 32 === event.keyCode ) {
+							event.preventDefault();
+							 
+							anchorElement.click();	
+						}
+					} );
+				} );
+							window.addEventListener( 'DOMContentLoaded', () => {
+					const blockScope = document.querySelector( '.uagb-block-27b61e3c' );
+					if ( ! blockScope ) {
+						return;
+					}
+
+					const anchorElement = blockScope.querySelector('a');
+					if (!anchorElement) {
+						return;
+					} 
+
+					 
+					blockScope.addEventListener('keydown', (event) => {
+						if ( 13 === event.keyCode || 32 === event.keyCode ) {
+							event.preventDefault();
+							 
+							anchorElement.click();	
+						}
+					} );
+				} );
+							window.addEventListener( 'DOMContentLoaded', () => {
+					const blockScope = document.querySelector( '.uagb-block-baaa572d' );
+					if ( ! blockScope ) {
+						return;
+					}
+
+					const anchorElement = blockScope.querySelector('a');
+					if (!anchorElement) {
+						return;
+					} 
+
+					 
+					blockScope.addEventListener('keydown', (event) => {
+						if ( 13 === event.keyCode || 32 === event.keyCode ) {
+							event.preventDefault();
+							 
+							anchorElement.click();	
+						}
+					} );
+				} );
+							window.addEventListener( 'DOMContentLoaded', () => {
+					const blockScope = document.querySelector( '.uagb-block-b3e97c17' );
+					if ( ! blockScope ) {
+						return;
+					}
+
+					const anchorElement = blockScope.querySelector('a');
+					if (!anchorElement) {
+						return;
+					} 
+
+					 
+					blockScope.addEventListener('keydown', (event) => {
+						if ( 13 === event.keyCode || 32 === event.keyCode ) {
+							event.preventDefault();
+							 
+							anchorElement.click();	
+						}
+					} );
+				} );
+							window.addEventListener( 'DOMContentLoaded', () => {
+					const blockScope = document.querySelector( '.uagb-block-ffb2333f' );
+					if ( ! blockScope ) {
+						return;
+					}
+
+					const anchorElement = blockScope.querySelector('a');
+					if (!anchorElement) {
+						return;
+					} 
+
+					 
+					blockScope.addEventListener('keydown', (event) => {
+						if ( 13 === event.keyCode || 32 === event.keyCode ) {
+							event.preventDefault();
+							 
+							anchorElement.click();	
+						}
+					} );
+				} );
+							window.addEventListener( 'DOMContentLoaded', () => {
+					const blockScope = document.querySelector( '.uagb-block-4497297d' );
+					if ( ! blockScope ) {
+						return;
+					}
+
+					const anchorElement = blockScope.querySelector('a');
+					if (!anchorElement) {
+						return;
+					} 
+
+					 
+					blockScope.addEventListener('keydown', (event) => {
+						if ( 13 === event.keyCode || 32 === event.keyCode ) {
+							event.preventDefault();
+							 
+							anchorElement.click();	
+						}
+					} );
+				} );
+							window.addEventListener( 'DOMContentLoaded', () => {
+					const blockScope = document.querySelector( '.uagb-block-6d12f936' );
+					if ( ! blockScope ) {
+						return;
+					}
+
+					const anchorElement = blockScope.querySelector('a');
+					if (!anchorElement) {
+						return;
+					} 
+
+					 
+					blockScope.addEventListener('keydown', (event) => {
+						if ( 13 === event.keyCode || 32 === event.keyCode ) {
+							event.preventDefault();
+							 
+							anchorElement.click();	
+						}
+					} );
+				} );
+							window.addEventListener( 'DOMContentLoaded', () => {
+					const blockScope = document.querySelector( '.uagb-block-1fc41292' );
+					if ( ! blockScope ) {
+						return;
+					}
+
+					const anchorElement = blockScope.querySelector('a');
+					if (!anchorElement) {
+						return;
+					} 
+
+					 
+					blockScope.addEventListener('keydown', (event) => {
+						if ( 13 === event.keyCode || 32 === event.keyCode ) {
+							event.preventDefault();
+							 
+							anchorElement.click();	
+						}
+					} );
+				} );
+							window.addEventListener( 'DOMContentLoaded', () => {
+					const blockScope = document.querySelector( '.uagb-block-edfe7187' );
+					if ( ! blockScope ) {
+						return;
+					}
+
+					const anchorElement = blockScope.querySelector('a');
+					if (!anchorElement) {
+						return;
+					} 
+
+					 
+					blockScope.addEventListener('keydown', (event) => {
+						if ( 13 === event.keyCode || 32 === event.keyCode ) {
+							event.preventDefault();
+							 
+							anchorElement.click();	
+						}
+					} );
+				} );
+							window.addEventListener( 'DOMContentLoaded', () => {
+					const blockScope = document.querySelector( '.uagb-block-bb24bd4e' );
+					if ( ! blockScope ) {
+						return;
+					}
+
+					const anchorElement = blockScope.querySelector('a');
+					if (!anchorElement) {
+						return;
+					} 
+
+					 
+					blockScope.addEventListener('keydown', (event) => {
+						if ( 13 === event.keyCode || 32 === event.keyCode ) {
+							event.preventDefault();
+							 
+							anchorElement.click();	
+						}
+					} );
+				} );
+							window.addEventListener( 'DOMContentLoaded', () => {
+					const blockScope = document.querySelector( '.uagb-block-470ca679' );
+					if ( ! blockScope ) {
+						return;
+					}
+
+					const anchorElement = blockScope.querySelector('a');
+					if (!anchorElement) {
+						return;
+					} 
+
+					 
+					blockScope.addEventListener('keydown', (event) => {
+						if ( 13 === event.keyCode || 32 === event.keyCode ) {
+							event.preventDefault();
+							 
+							anchorElement.click();	
+						}
+					} );
+				} );
+							window.addEventListener( 'DOMContentLoaded', () => {
+					const blockScope = document.querySelector( '.uagb-block-fed58b0f' );
+					if ( ! blockScope ) {
+						return;
+					}
+
+					const anchorElement = blockScope.querySelector('a');
+					if (!anchorElement) {
+						return;
+					} 
+
+					 
+					blockScope.addEventListener('keydown', (event) => {
+						if ( 13 === event.keyCode || 32 === event.keyCode ) {
+							event.preventDefault();
+							 
+							anchorElement.click();	
+						}
+					} );
+				} );
+							window.addEventListener( 'DOMContentLoaded', () => {
+					const blockScope = document.querySelector( '.uagb-block-298650e2' );
+					if ( ! blockScope ) {
+						return;
+					}
+
+					const anchorElement = blockScope.querySelector('a');
+					if (!anchorElement) {
+						return;
+					} 
+
+					 
+					blockScope.addEventListener('keydown', (event) => {
+						if ( 13 === event.keyCode || 32 === event.keyCode ) {
+							event.preventDefault();
+							 
+							anchorElement.click();	
+						}
+					} );
+				} );
+							window.addEventListener( 'DOMContentLoaded', () => {
+					const blockScope = document.querySelector( '.uagb-block-2109ba8c' );
+					if ( ! blockScope ) {
+						return;
+					}
+
+					const anchorElement = blockScope.querySelector('a');
+					if (!anchorElement) {
+						return;
+					} 
+
+					 
+					blockScope.addEventListener('keydown', (event) => {
+						if ( 13 === event.keyCode || 32 === event.keyCode ) {
+							event.preventDefault();
+							 
+							anchorElement.click();	
+						}
+					} );
+				} );
+							window.addEventListener( 'DOMContentLoaded', () => {
+					const blockScope = document.querySelector( '.uagb-block-b31fafe5' );
+					if ( ! blockScope ) {
+						return;
+					}
+
+					const anchorElement = blockScope.querySelector('a');
+					if (!anchorElement) {
+						return;
+					} 
+
+					 
+					blockScope.addEventListener('keydown', (event) => {
+						if ( 13 === event.keyCode || 32 === event.keyCode ) {
+							event.preventDefault();
+							 
+							anchorElement.click();	
+						}
+					} );
+				} );
+							window.addEventListener( 'DOMContentLoaded', () => {
+					const blockScope = document.querySelector( '.uagb-block-62af0674' );
+					if ( ! blockScope ) {
+						return;
+					}
+
+					const anchorElement = blockScope.querySelector('a');
+					if (!anchorElement) {
+						return;
+					} 
+
+					 
+					blockScope.addEventListener('keydown', (event) => {
+						if ( 13 === event.keyCode || 32 === event.keyCode ) {
+							event.preventDefault();
+							 
+							anchorElement.click();	
+						}
+					} );
+				} );
+							window.addEventListener( 'DOMContentLoaded', () => {
+					const blockScope = document.querySelector( '.uagb-block-d7bbcf76' );
+					if ( ! blockScope ) {
+						return;
+					}
+
+					const anchorElement = blockScope.querySelector('a');
+					if (!anchorElement) {
+						return;
+					} 
+
+					 
+					blockScope.addEventListener('keydown', (event) => {
+						if ( 13 === event.keyCode || 32 === event.keyCode ) {
+							event.preventDefault();
+							 
+							anchorElement.click();	
+						}
+					} );
+				} );
+							window.addEventListener( 'DOMContentLoaded', () => {
+					const blockScope = document.querySelector( '.uagb-block-9550198e' );
+					if ( ! blockScope ) {
+						return;
+					}
+
+					const anchorElement = blockScope.querySelector('a');
+					if (!anchorElement) {
+						return;
+					} 
+
+					 
+					blockScope.addEventListener('keydown', (event) => {
+						if ( 13 === event.keyCode || 32 === event.keyCode ) {
+							event.preventDefault();
+							 
+							anchorElement.click();	
+						}
+					} );
+				} );
+							window.addEventListener( 'DOMContentLoaded', () => {
+					const blockScope = document.querySelector( '.uagb-block-f1885df2' );
+					if ( ! blockScope ) {
+						return;
+					}
+
+					const anchorElement = blockScope.querySelector('a');
+					if (!anchorElement) {
+						return;
+					} 
+
+					 
+					blockScope.addEventListener('keydown', (event) => {
+						if ( 13 === event.keyCode || 32 === event.keyCode ) {
+							event.preventDefault();
+							 
+							anchorElement.click();	
+						}
+					} );
+				} );
+							window.addEventListener( 'DOMContentLoaded', () => {
+					const blockScope = document.querySelector( '.uagb-block-5ed96edf' );
+					if ( ! blockScope ) {
+						return;
+					}
+
+					const anchorElement = blockScope.querySelector('a');
+					if (!anchorElement) {
+						return;
+					} 
+
+					 
+					blockScope.addEventListener('keydown', (event) => {
+						if ( 13 === event.keyCode || 32 === event.keyCode ) {
+							event.preventDefault();
+							 
+							anchorElement.click();	
+						}
+					} );
+				} );
 			 });

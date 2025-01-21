@@ -12,7 +12,7 @@
 	<atom:link href="https://teachbooks.io/category/posts/feed/" rel="self" type="application/rss+xml" />
 	<link>https://teachbooks.io/</link>
 	<description></description>
-	<lastBuildDate>Tue, 21 Jan 2025 16:16:49 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 21 Jan 2025 16:29:56 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -42,11 +42,15 @@
 
 
 
-<p>Before, our <a href="https://teachbooks.io/manual/external/deploy-book-workflow/README.html">github workflow</a> was implemented in such a way that you could fix the version of packages, or it would take a new version whenever you release a new version in a new week. This might lead to unexpected changes when new version come out, although new version are in general backwards compatible. Now, we&#8217;ve implemented <a href="https://teachbooks.io/manual/features/update_env.html">GitHub&#8217;s Dependabot</a> to notify you whenever there are updates, so that you can decide whether or not to adopt the newest version (<a href="https://teachbooks.io/automatically-update-nested-books/" data-type="post" data-id="2265">Dependabot was implemented a few weeks before to auto-updated external books inside your book too</a>)! Recent updates are for example our <a href="https://teachbooks.io/manual/external/Sphinx-Image-Inverter/README.html">image inverter</a> to which a switch was added whether or not by default to invert images in dark-mode.</p>
+<p>Before, our <a href="https://teachbooks.io/manual/external/deploy-book-workflow/README.html">GitHub workflow</a> was implemented in such a way that you could fix the version of packages, or it would take a new version (at most once every week) whenever you update your book. This might lead to unexpected changes when new versions come out, although new versions are in general backwards compatible. Now, we&#8217;ve implemented <a href="https://teachbooks.io/manual/features/update_env.html">GitHub&#8217;s Dependabot</a> to notify you whenever there are updates, so that you can decide whether or not to adopt the newest version (<a href="https://teachbooks.io/automatically-update-nested-books/" data-type="post" data-id="2265">Dependabot was implemented a few weeks before to auto-updated external books inside your book too</a>)! Recent updates are for example our <a href="https://teachbooks.io/manual/external/Sphinx-Image-Inverter/README.html">image inverter</a> to which a switch was added whether or not by default to invert images in dark-mode.</p>
 
 
 
 <p>This implementation is described in <a href="https://teachbooks.io/manual/features/update_env.html" data-type="link" data-id="https://teachbooks.io/manual/features/update_env.html">our manual</a>! Please reach out to us for feedback, tips or ideas!</p>
+
+
+
+<p></p>
 ]]></content:encoded>
 					
 		

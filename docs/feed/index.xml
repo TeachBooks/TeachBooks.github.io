@@ -12,7 +12,7 @@
 	<atom:link href="https://teachbooks.io/feed/" rel="self" type="application/rss+xml" />
 	<link>https://teachbooks.io/</link>
 	<description></description>
-	<lastBuildDate>Tue, 14 Jan 2025 09:45:05 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 21 Jan 2025 16:16:49 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,31 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Auto-updating packages</title>
+		<link>https://teachbooks.io/auto-updating-packages/</link>
+		
+		<dc:creator><![CDATA[Tom van Woudenberg]]></dc:creator>
+		<pubDate>Tue, 21 Jan 2025 16:10:10 +0000</pubDate>
+				<category><![CDATA[Posts]]></category>
+		<guid isPermaLink="false">https://teachbooks.io/?p=2483</guid>
+
+					<description><![CDATA[Dennis van den Ouden-van der Horst and Tom van Woudenberg implemented a way of automatically getting notifications of updated packages [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Dennis van den Ouden-van der Horst and Tom van Woudenberg implemented a way of automatically getting notifications of updated packages used within your TeachBook! Most of our extensions are packages, which are regularly updated with improvements. You don&#8217;t want to miss those, do you?</p>
+
+
+
+<p>Before, our <a href="https://teachbooks.io/manual/external/deploy-book-workflow/README.html">github workflow</a> was implemented in such a way that you could fix the version of packages, or it would take a new version whenever you release a new version in a new week. This might lead to unexpected changes when new version come out, although new version are in general backwards compatible. Now, we&#8217;ve implemented <a href="https://teachbooks.io/manual/features/update_env.html">GitHub&#8217;s Dependabot</a> to notify you whenever there are updates, so that you can decide whether or not to adopt the newest version (<a href="https://teachbooks.io/automatically-update-nested-books/" data-type="post" data-id="2265">Dependabot was implemented a few weeks before to auto-updated external books inside your book too</a>)! Recent updates are for example our <a href="https://teachbooks.io/manual/external/Sphinx-Image-Inverter/README.html">image inverter</a> to which a switch was added whether or not by default to invert images in dark-mode.</p>
+
+
+
+<p>This implementation is described in <a href="https://teachbooks.io/manual/features/update_env.html" data-type="link" data-id="https://teachbooks.io/manual/features/update_env.html">our manual</a>! Please reach out to us for feedback, tips or ideas!</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Custom colours in book</title>
 		<link>https://teachbooks.io/custom-colours-in-book/</link>
 		
@@ -325,31 +350,6 @@
 
 
 <p>This feature is already implemented in the <a href="https://teachbooks.io/files-and-folders/">Files and Folders</a> book! Check it out!</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>WND-conference</title>
-		<link>https://teachbooks.io/wnd-conference/</link>
-		
-		<dc:creator><![CDATA[Tom van Woudenberg]]></dc:creator>
-		<pubDate>Sat, 14 Dec 2024 09:31:31 +0000</pubDate>
-				<category><![CDATA[Events]]></category>
-		<guid isPermaLink="false">https://teachbooks.io/?p=2278</guid>
-
-					<description><![CDATA[We joined a national Dutch conference for high school physics teachers (Werkgroep Natuurkunde Didaktiek (WND) conferentie) to host a workshop [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<p>We joined a national Dutch conference for high school physics teachers (<a href="https://wndconferentie.nl/" data-type="link" data-id="https://wndconferentie.nl/">Werkgroep Natuurkunde Didaktiek (WND) conferentie</a>) to host a workshop on how to create a TeachBook! Robert Lanzafame, Julie Kirsch and Tom van Woudenberg led this interactive session!</p>
-
-
-
-<p>The room was filled with around 30 enthusiastic teachers who all started their first book! The workshop started with a presentation how TeachBooks are used in various courses at Delft univeristy of Technology. Afterwards, the attendees made their own book using <a href="https://github.com/TeachBooks/template" data-type="link" data-id="https://github.com/TeachBooks/template">our template</a> and the included exercises. The main focus was how git can be used to effectively share and reuse open educational material and how to contribute to material from others!</p>
-
-
-
-<p>The presentation is available here (in Dutch): <a href="https://doi.org/10.5281/zenodo.14454542">https://doi.org/10.5281/zenodo.14454542</a></p>
 ]]></content:encoded>
 					
 		

@@ -12,7 +12,7 @@
 	<atom:link href="https://teachbooks.io/category/posts/feed/" rel="self" type="application/rss+xml" />
 	<link>https://teachbooks.io/</link>
 	<description></description>
-	<lastBuildDate>Tue, 14 Jan 2025 09:45:05 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 21 Jan 2025 16:16:49 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,31 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Auto-updating packages</title>
+		<link>https://teachbooks.io/auto-updating-packages/</link>
+		
+		<dc:creator><![CDATA[Tom van Woudenberg]]></dc:creator>
+		<pubDate>Tue, 21 Jan 2025 16:10:10 +0000</pubDate>
+				<category><![CDATA[Posts]]></category>
+		<guid isPermaLink="false">https://teachbooks.io/?p=2483</guid>
+
+					<description><![CDATA[Dennis van den Ouden-van der Horst and Tom van Woudenberg implemented a way of automatically getting notifications of updated packages [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Dennis van den Ouden-van der Horst and Tom van Woudenberg implemented a way of automatically getting notifications of updated packages used within your TeachBook! Most of our extensions are packages, which are regularly updated with improvements. You don&#8217;t want to miss those, do you?</p>
+
+
+
+<p>Before, our <a href="https://teachbooks.io/manual/external/deploy-book-workflow/README.html">github workflow</a> was implemented in such a way that you could fix the version of packages, or it would take a new version whenever you release a new version in a new week. This might lead to unexpected changes when new version come out, although new version are in general backwards compatible. Now, we&#8217;ve implemented <a href="https://teachbooks.io/manual/features/update_env.html">GitHub&#8217;s Dependabot</a> to notify you whenever there are updates, so that you can decide whether or not to adopt the newest version (<a href="https://teachbooks.io/automatically-update-nested-books/" data-type="post" data-id="2265">Dependabot was implemented a few weeks before to auto-updated external books inside your book too</a>)! Recent updates are for example our <a href="https://teachbooks.io/manual/external/Sphinx-Image-Inverter/README.html">image inverter</a> to which a switch was added whether or not by default to invert images in dark-mode.</p>
+
+
+
+<p>This implementation is described in <a href="https://teachbooks.io/manual/features/update_env.html" data-type="link" data-id="https://teachbooks.io/manual/features/update_env.html">our manual</a>! Please reach out to us for feedback, tips or ideas!</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Custom colours in book</title>
 		<link>https://teachbooks.io/custom-colours-in-book/</link>
 		
@@ -329,27 +354,6 @@
 
 
 <p>We plan on adding much more exercises, so feel free to contribute!</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Rich tool tips in your TeachBook!</title>
-		<link>https://teachbooks.io/rich-tool-tips-in-your-teachbook/</link>
-		
-		<dc:creator><![CDATA[Dennis den Ouden-van der Horst]]></dc:creator>
-		<pubDate>Sun, 24 Nov 2024 10:01:12 +0000</pubDate>
-				<category><![CDATA[Posts]]></category>
-		<guid isPermaLink="false">https://teachbooks.io/?p=2295</guid>
-
-					<description><![CDATA[Sphinx-tippy allows you to create rich hover over tips. Whenever you hower over a link with your mouse, a preview [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<p>Sphinx-tippy allows you to create rich hover over tips. Whenever you hower over a link with your mouse, a preview is shown with the content of where the link points too. We&#8217;ve created a TeachBooks Tippy extension which makes it plug-and-play within a TeachBook.</p>
-
-
-
-<p><a href="https://github.com/TeachBooks/teachbooks-sphinx-tippy" data-type="link" data-id="https://github.com/TeachBooks/teachbooks-sphinx-tippy">The repository is part of our TeachBooks GitHub organization</a>. <a href="https://teachbooks.io/TeachBooks-sphinx-tippy-Example">An example book</a> is made to show you how you can use it!</p>
 ]]></content:encoded>
 					
 		

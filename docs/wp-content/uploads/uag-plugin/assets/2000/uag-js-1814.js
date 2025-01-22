@@ -1739,46 +1739,6 @@ document.addEventListener("DOMContentLoaded", function(){ 				window.addEventLis
 					} );
 				} );
 							window.addEventListener( 'DOMContentLoaded', () => {
-					const blockScope = document.querySelector( '.uagb-block-baaa572d' );
-					if ( ! blockScope ) {
-						return;
-					}
-
-					const anchorElement = blockScope.querySelector('a');
-					if (!anchorElement) {
-						return;
-					} 
-
-					 
-					blockScope.addEventListener('keydown', (event) => {
-						if ( 13 === event.keyCode || 32 === event.keyCode ) {
-							event.preventDefault();
-							 
-							anchorElement.click();	
-						}
-					} );
-				} );
-							window.addEventListener( 'DOMContentLoaded', () => {
-					const blockScope = document.querySelector( '.uagb-block-b3e97c17' );
-					if ( ! blockScope ) {
-						return;
-					}
-
-					const anchorElement = blockScope.querySelector('a');
-					if (!anchorElement) {
-						return;
-					} 
-
-					 
-					blockScope.addEventListener('keydown', (event) => {
-						if ( 13 === event.keyCode || 32 === event.keyCode ) {
-							event.preventDefault();
-							 
-							anchorElement.click();	
-						}
-					} );
-				} );
-							window.addEventListener( 'DOMContentLoaded', () => {
 					const blockScope = document.querySelector( '.uagb-block-ffb2333f' );
 					if ( ! blockScope ) {
 						return;
@@ -1840,46 +1800,6 @@ document.addEventListener("DOMContentLoaded", function(){ 				window.addEventLis
 				} );
 							window.addEventListener( 'DOMContentLoaded', () => {
 					const blockScope = document.querySelector( '.uagb-block-1fc41292' );
-					if ( ! blockScope ) {
-						return;
-					}
-
-					const anchorElement = blockScope.querySelector('a');
-					if (!anchorElement) {
-						return;
-					} 
-
-					 
-					blockScope.addEventListener('keydown', (event) => {
-						if ( 13 === event.keyCode || 32 === event.keyCode ) {
-							event.preventDefault();
-							 
-							anchorElement.click();	
-						}
-					} );
-				} );
-							window.addEventListener( 'DOMContentLoaded', () => {
-					const blockScope = document.querySelector( '.uagb-block-edfe7187' );
-					if ( ! blockScope ) {
-						return;
-					}
-
-					const anchorElement = blockScope.querySelector('a');
-					if (!anchorElement) {
-						return;
-					} 
-
-					 
-					blockScope.addEventListener('keydown', (event) => {
-						if ( 13 === event.keyCode || 32 === event.keyCode ) {
-							event.preventDefault();
-							 
-							anchorElement.click();	
-						}
-					} );
-				} );
-							window.addEventListener( 'DOMContentLoaded', () => {
-					const blockScope = document.querySelector( '.uagb-block-bb24bd4e' );
 					if ( ! blockScope ) {
 						return;
 					}

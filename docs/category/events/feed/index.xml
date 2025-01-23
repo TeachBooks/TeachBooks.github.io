@@ -12,7 +12,7 @@
 	<atom:link href="https://teachbooks.io/category/events/feed/" rel="self" type="application/rss+xml" />
 	<link>https://teachbooks.io/</link>
 	<description></description>
-	<lastBuildDate>Tue, 21 Jan 2025 15:01:36 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 23 Jan 2025 09:11:09 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,27 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>AAPT Winter meeting</title>
+		<link>https://teachbooks.io/aapt-winter-meeting/</link>
+		
+		<dc:creator><![CDATA[Freek Pols]]></dc:creator>
+		<pubDate>Sun, 19 Jan 2025 09:03:27 +0000</pubDate>
+				<category><![CDATA[Events]]></category>
+		<guid isPermaLink="false">https://teachbooks.io/?p=2496</guid>
+
+					<description><![CDATA[During the AAPT Winter Meeting in St. Louis, Missouri, the open-access book Show the Physics has been presented. This book [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>During the AAPT Winter Meeting in St. Louis, Missouri, the open-access book <a href="https://interactivetextbooks.tudelft.nl/showthephysics" data-type="link" data-id="https://interactivetextbooks.tudelft.nl/showthephysics">Show the Physics</a> has been presented. This book has been made using the Teachbook tool. Attendees were pointed to Teachbooks as a tool to (re)create and (re)use educational content.</p>
+
+
+
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="774" height="1024" src="https://teachbooks.io/wp-content/uploads/2025/01/AAPTWM-774x1024.jpg" alt="" class="wp-image-2498" srcset="https://teachbooks.io/wp-content/uploads/2025/01/AAPTWM-774x1024.jpg 774w, https://teachbooks.io/wp-content/uploads/2025/01/AAPTWM-227x300.jpg 227w, https://teachbooks.io/wp-content/uploads/2025/01/AAPTWM-768x1016.jpg 768w, https://teachbooks.io/wp-content/uploads/2025/01/AAPTWM-1161x1536.jpg 1161w, https://teachbooks.io/wp-content/uploads/2025/01/AAPTWM-1200x1587.jpg 1200w, https://teachbooks.io/wp-content/uploads/2025/01/AAPTWM.jpg 1280w" sizes="(max-width: 774px) 100vw, 774px" /></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>WND-conference</title>
 		<link>https://teachbooks.io/wnd-conference/</link>
 		
@@ -67,7 +88,7 @@
 
 
 
-<p> <img fetchpriority="high" decoding="async" width="2048" height="1153" class="wp-image-2432" style="width: 400px" src="https://teachbooks.io/wp-content/uploads/2025/01/tud-training.jpg" alt="" srcset="https://teachbooks.io/wp-content/uploads/2025/01/tud-training.jpg 2048w, https://teachbooks.io/wp-content/uploads/2025/01/tud-training-300x169.jpg 300w, https://teachbooks.io/wp-content/uploads/2025/01/tud-training-1024x577.jpg 1024w, https://teachbooks.io/wp-content/uploads/2025/01/tud-training-768x432.jpg 768w, https://teachbooks.io/wp-content/uploads/2025/01/tud-training-1536x865.jpg 1536w, https://teachbooks.io/wp-content/uploads/2025/01/tud-training-1200x676.jpg 1200w" sizes="(max-width: 2048px) 100vw, 2048px" /></p>
+<p> <img decoding="async" width="2048" height="1153" class="wp-image-2432" style="width: 400px" src="https://teachbooks.io/wp-content/uploads/2025/01/tud-training.jpg" alt="" srcset="https://teachbooks.io/wp-content/uploads/2025/01/tud-training.jpg 2048w, https://teachbooks.io/wp-content/uploads/2025/01/tud-training-300x169.jpg 300w, https://teachbooks.io/wp-content/uploads/2025/01/tud-training-1024x577.jpg 1024w, https://teachbooks.io/wp-content/uploads/2025/01/tud-training-768x432.jpg 768w, https://teachbooks.io/wp-content/uploads/2025/01/tud-training-1536x865.jpg 1536w, https://teachbooks.io/wp-content/uploads/2025/01/tud-training-1200x676.jpg 1200w" sizes="(max-width: 2048px) 100vw, 2048px" /></p>
 
 
 

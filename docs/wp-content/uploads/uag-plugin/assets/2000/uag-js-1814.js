@@ -2179,6 +2179,46 @@ document.addEventListener("DOMContentLoaded", function(){ 				window.addEventLis
 					} );
 				} );
 							window.addEventListener( 'DOMContentLoaded', () => {
+					const blockScope = document.querySelector( '.uagb-block-7d350f4e' );
+					if ( ! blockScope ) {
+						return;
+					}
+
+					const anchorElement = blockScope.querySelector('a');
+					if (!anchorElement) {
+						return;
+					} 
+
+					 
+					blockScope.addEventListener('keydown', (event) => {
+						if ( 13 === event.keyCode || 32 === event.keyCode ) {
+							event.preventDefault();
+							 
+							anchorElement.click();	
+						}
+					} );
+				} );
+							window.addEventListener( 'DOMContentLoaded', () => {
+					const blockScope = document.querySelector( '.uagb-block-a1f6c57a' );
+					if ( ! blockScope ) {
+						return;
+					}
+
+					const anchorElement = blockScope.querySelector('a');
+					if (!anchorElement) {
+						return;
+					} 
+
+					 
+					blockScope.addEventListener('keydown', (event) => {
+						if ( 13 === event.keyCode || 32 === event.keyCode ) {
+							event.preventDefault();
+							 
+							anchorElement.click();	
+						}
+					} );
+				} );
+							window.addEventListener( 'DOMContentLoaded', () => {
 					const blockScope = document.querySelector( '.uagb-block-d7bbcf76' );
 					if ( ! blockScope ) {
 						return;

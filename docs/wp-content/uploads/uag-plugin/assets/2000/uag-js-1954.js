@@ -499,66 +499,6 @@ document.addEventListener("DOMContentLoaded", function(){ 				window.addEventLis
 					} );
 				} );
 							window.addEventListener( 'DOMContentLoaded', () => {
-					const blockScope = document.querySelector( '.uagb-block-a1326b67' );
-					if ( ! blockScope ) {
-						return;
-					}
-
-					const anchorElement = blockScope.querySelector('a');
-					if (!anchorElement) {
-						return;
-					} 
-
-					 
-					blockScope.addEventListener('keydown', (event) => {
-						if ( 13 === event.keyCode || 32 === event.keyCode ) {
-							event.preventDefault();
-							 
-							anchorElement.click();	
-						}
-					} );
-				} );
-							window.addEventListener( 'DOMContentLoaded', () => {
-					const blockScope = document.querySelector( '.uagb-block-e79590df' );
-					if ( ! blockScope ) {
-						return;
-					}
-
-					const anchorElement = blockScope.querySelector('a');
-					if (!anchorElement) {
-						return;
-					} 
-
-					 
-					blockScope.addEventListener('keydown', (event) => {
-						if ( 13 === event.keyCode || 32 === event.keyCode ) {
-							event.preventDefault();
-							 
-							anchorElement.click();	
-						}
-					} );
-				} );
-							window.addEventListener( 'DOMContentLoaded', () => {
-					const blockScope = document.querySelector( '.uagb-block-61216c4d' );
-					if ( ! blockScope ) {
-						return;
-					}
-
-					const anchorElement = blockScope.querySelector('a');
-					if (!anchorElement) {
-						return;
-					} 
-
-					 
-					blockScope.addEventListener('keydown', (event) => {
-						if ( 13 === event.keyCode || 32 === event.keyCode ) {
-							event.preventDefault();
-							 
-							anchorElement.click();	
-						}
-					} );
-				} );
-							window.addEventListener( 'DOMContentLoaded', () => {
 					const blockScope = document.querySelector( '.uagb-block-8656ceca' );
 					if ( ! blockScope ) {
 						return;

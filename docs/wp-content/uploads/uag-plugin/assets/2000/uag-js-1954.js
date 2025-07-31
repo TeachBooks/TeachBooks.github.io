@@ -299,6 +299,166 @@ document.addEventListener("DOMContentLoaded", function(){ 				window.addEventLis
 					} );
 				} );
 							window.addEventListener( 'DOMContentLoaded', () => {
+					const blockScope = document.querySelector( '.uagb-block-bb870aa0' );
+					if ( ! blockScope ) {
+						return;
+					}
+
+					const anchorElement = blockScope.querySelector('a');
+					if (!anchorElement) {
+						return;
+					} 
+
+					 
+					blockScope.addEventListener('keydown', (event) => {
+						if ( 13 === event.keyCode || 32 === event.keyCode ) {
+							event.preventDefault();
+							 
+							anchorElement.click();	
+						}
+					} );
+				} );
+							window.addEventListener( 'DOMContentLoaded', () => {
+					const blockScope = document.querySelector( '.uagb-block-3fa9fef7' );
+					if ( ! blockScope ) {
+						return;
+					}
+
+					const anchorElement = blockScope.querySelector('a');
+					if (!anchorElement) {
+						return;
+					} 
+
+					 
+					blockScope.addEventListener('keydown', (event) => {
+						if ( 13 === event.keyCode || 32 === event.keyCode ) {
+							event.preventDefault();
+							 
+							anchorElement.click();	
+						}
+					} );
+				} );
+							window.addEventListener( 'DOMContentLoaded', () => {
+					const blockScope = document.querySelector( '.uagb-block-9672f4cc' );
+					if ( ! blockScope ) {
+						return;
+					}
+
+					const anchorElement = blockScope.querySelector('a');
+					if (!anchorElement) {
+						return;
+					} 
+
+					 
+					blockScope.addEventListener('keydown', (event) => {
+						if ( 13 === event.keyCode || 32 === event.keyCode ) {
+							event.preventDefault();
+							 
+							anchorElement.click();	
+						}
+					} );
+				} );
+							window.addEventListener( 'DOMContentLoaded', () => {
+					const blockScope = document.querySelector( '.uagb-block-a8d1823b' );
+					if ( ! blockScope ) {
+						return;
+					}
+
+					const anchorElement = blockScope.querySelector('a');
+					if (!anchorElement) {
+						return;
+					} 
+
+					 
+					blockScope.addEventListener('keydown', (event) => {
+						if ( 13 === event.keyCode || 32 === event.keyCode ) {
+							event.preventDefault();
+							 
+							anchorElement.click();	
+						}
+					} );
+				} );
+							window.addEventListener( 'DOMContentLoaded', () => {
+					const blockScope = document.querySelector( '.uagb-block-fd67c6d3' );
+					if ( ! blockScope ) {
+						return;
+					}
+
+					const anchorElement = blockScope.querySelector('a');
+					if (!anchorElement) {
+						return;
+					} 
+
+					 
+					blockScope.addEventListener('keydown', (event) => {
+						if ( 13 === event.keyCode || 32 === event.keyCode ) {
+							event.preventDefault();
+							 
+							anchorElement.click();	
+						}
+					} );
+				} );
+							window.addEventListener( 'DOMContentLoaded', () => {
+					const blockScope = document.querySelector( '.uagb-block-6c8bfe8d' );
+					if ( ! blockScope ) {
+						return;
+					}
+
+					const anchorElement = blockScope.querySelector('a');
+					if (!anchorElement) {
+						return;
+					} 
+
+					 
+					blockScope.addEventListener('keydown', (event) => {
+						if ( 13 === event.keyCode || 32 === event.keyCode ) {
+							event.preventDefault();
+							 
+							anchorElement.click();	
+						}
+					} );
+				} );
+							window.addEventListener( 'DOMContentLoaded', () => {
+					const blockScope = document.querySelector( '.uagb-block-5add0081' );
+					if ( ! blockScope ) {
+						return;
+					}
+
+					const anchorElement = blockScope.querySelector('a');
+					if (!anchorElement) {
+						return;
+					} 
+
+					 
+					blockScope.addEventListener('keydown', (event) => {
+						if ( 13 === event.keyCode || 32 === event.keyCode ) {
+							event.preventDefault();
+							 
+							anchorElement.click();	
+						}
+					} );
+				} );
+							window.addEventListener( 'DOMContentLoaded', () => {
+					const blockScope = document.querySelector( '.uagb-block-b7db7a1f' );
+					if ( ! blockScope ) {
+						return;
+					}
+
+					const anchorElement = blockScope.querySelector('a');
+					if (!anchorElement) {
+						return;
+					} 
+
+					 
+					blockScope.addEventListener('keydown', (event) => {
+						if ( 13 === event.keyCode || 32 === event.keyCode ) {
+							event.preventDefault();
+							 
+							anchorElement.click();	
+						}
+					} );
+				} );
+							window.addEventListener( 'DOMContentLoaded', () => {
 					const blockScope = document.querySelector( '.uagb-block-6be928a2' );
 					if ( ! blockScope ) {
 						return;

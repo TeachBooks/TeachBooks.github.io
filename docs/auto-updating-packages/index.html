@@ -4,12 +4,12 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="profile" href="https://gmpg.org/xfn/11"> 
-	<title>Auto-updating packages &ndash; TeachBooks</title>
+	<title>Auto-updating packages – TeachBooks</title>
 <meta name="robots" content="max-image-preview:large, max-snippet:-1, max-video-preview:-1">
 	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
 	<link rel="canonical" href="https://teachbooks.io/auto-updating-packages/">
 <meta name="description" content="Dennis van den Ouden-van der Horst and Tom van Woudenberg implemented a way of automatically getting notifications of updated packages used within your TeachBoo">
-<meta property="og:title" content="Auto-updating packages &ndash; TeachBooks">
+<meta property="og:title" content="Auto-updating packages – TeachBooks">
 <meta property="og:type" content="article">
 <meta property="og:image" content="https://teachbooks.io/wp-content/uploads/2025/01/dependabot-octocat-blog-banner.webp">
 <meta property="og:image:width" content="1200">
@@ -25,9 +25,9 @@
 <meta property="article:section" content="Posts">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:image" content="https://teachbooks.io/wp-content/uploads/2025/01/dependabot-octocat-blog-banner.webp">
-<link rel="alternate" type="application/rss+xml" title="TeachBooks &raquo; Feed" href="https://teachbooks.io/feed/">
-<link rel="alternate" type="application/rss+xml" title="TeachBooks &raquo; Comments Feed" href="https://teachbooks.io/comments/feed/">
-<link rel="alternate" type="application/rss+xml" title="TeachBooks &raquo; Auto-updating packages Comments Feed" href="https://teachbooks.io/auto-updating-packages/feed/">
+<link rel="alternate" type="application/rss+xml" title="TeachBooks » Feed" href="https://teachbooks.io/feed/">
+<link rel="alternate" type="application/rss+xml" title="TeachBooks » Comments Feed" href="https://teachbooks.io/comments/feed/">
+<link rel="alternate" type="application/rss+xml" title="TeachBooks » Auto-updating packages Comments Feed" href="https://teachbooks.io/auto-updating-packages/feed/">
 <script>
 window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/teachbooks.io\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.7.1"}};
 /*! This file is auto-generated */
@@ -228,7 +228,7 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 :root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
 </style>
 <link rel="stylesheet" id="h5p-plugin-styles-css" href="https://teachbooks.io/wp-content/plugins/h5p/h5p-php-library/styles/h5p.css?ver=1.16.0" media="all">
-<link rel="stylesheet" id="uag-style-2483-css" href="https://teachbooks.io/wp-content/uploads/uag-plugin/assets/2000/uag-css-2483.css?ver=1761926856" media="all">
+<link rel="stylesheet" id="uag-style-2483-css" href="https://teachbooks.io/wp-content/uploads/uag-plugin/assets/2000/uag-css-2483.css?ver=1762183203" media="all">
 <style id="jetpack-global-styles-frontend-style-inline-css">
 :root { --font-headings: unset; --font-base: unset; --font-headings-default: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif; --font-base-default: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;}
 </style>
@@ -249,7 +249,13 @@ flexibility(document.documentElement);
 <link rel="icon" href="https://teachbooks.io/wp-content/uploads/2024/12/cropped-TB_favicon-192x192.png" sizes="192x192">
 <link rel="apple-touch-icon" href="https://teachbooks.io/wp-content/uploads/2024/12/cropped-TB_favicon-180x180.png">
 <meta name="msapplication-TileImage" content="https://teachbooks.io/wp-content/uploads/2024/12/cropped-TB_favicon-270x270.png">
-</head>
+		<style id="wp-custom-css">
+			/* Remove underline for links inside a block (apply class "no-underline-parent" on the paragraph/block) */
+.no-underline-parent a {
+  text-decoration: none;
+  color: inherit; /* keep the same text color as surrounding text */
+}		</style>
+		</head>
 
 <body itemtype="https://schema.org/Blog" itemscope="itemscope" class="post-template-default single single-post postid-2483 single-format-standard wp-custom-logo wp-embed-responsive ast-desktop ast-narrow-container ast-separate-container ast-no-sidebar astra-4.11.13 group-blog ast-blog-single-style-1 ast-single-post ast-inherit-site-logo-transparent ast-hfb-header ast-normal-title-enabled">
 
@@ -373,11 +379,11 @@ flexibility(document.documentElement);
 
 		
 		
-<p>Dennis van den Ouden-van der Horst and Tom van Woudenberg implemented a way of automatically getting notifications of updated packages used within your TeachBook! Most of our extensions are packages, which are regularly updated with improvements. You don&rsquo;t want to miss those, do you?</p>
+<p>Dennis van den Ouden-van der Horst and Tom van Woudenberg implemented a way of automatically getting notifications of updated packages used within your TeachBook! Most of our extensions are packages, which are regularly updated with improvements. You don’t want to miss those, do you?</p>
 
 
 
-<p>Before, our <a href="https://teachbooks.io/manual/external/deploy-book-workflow/README.html">GitHub workflow</a> was implemented in such a way that you could fix the version of packages, or it would take a new version (at most once every week) whenever you update your book. This might lead to unexpected changes when new versions come out, although new versions are in general backwards compatible. Now, we&rsquo;ve implemented <a href="https://teachbooks.io/manual/features/update_env.html">GitHub&rsquo;s Dependabot</a> to notify you whenever there are updates, so that you can decide whether or not to adopt the newest version (<a href="https://teachbooks.io/automatically-update-nested-books/" data-type="post" data-id="2265">Dependabot was implemented a few weeks before to auto-updated external books inside your book too</a>)! Recent updates are for example our <a href="https://teachbooks.io/manual/external/Sphinx-Image-Inverter/README.html">image inverter</a> to which a switch was added whether or not by default to invert images in dark-mode.</p>
+<p>Before, our <a href="https://teachbooks.io/manual/external/deploy-book-workflow/README.html">GitHub workflow</a> was implemented in such a way that you could fix the version of packages, or it would take a new version (at most once every week) whenever you update your book. This might lead to unexpected changes when new versions come out, although new versions are in general backwards compatible. Now, we’ve implemented <a href="https://teachbooks.io/manual/features/update_env.html">GitHub’s Dependabot</a> to notify you whenever there are updates, so that you can decide whether or not to adopt the newest version (<a href="https://teachbooks.io/automatically-update-nested-books/" data-type="post" data-id="2265">Dependabot was implemented a few weeks before to auto-updated external books inside your book too</a>)! Recent updates are for example our <a href="https://teachbooks.io/manual/external/Sphinx-Image-Inverter/README.html">image inverter</a> to which a switch was added whether or not by default to invert images in dark-mode.</p>
 
 
 
@@ -396,7 +402,7 @@ flexibility(document.documentElement);
 </article><!-- #post-## -->
 
 <nav class="navigation post-navigation" aria-label="Posts">
-				<div class="nav-links"><div class="nav-previous"><a title="AAPT Winter meeting" href="https://teachbooks.io/aapt-winter-meeting/" rel="prev"><span class="ast-left-arrow" aria-hidden="true">&larr;</span> Previous Post</a></div><div class="nav-next"><a title="TU Delft's Open Interactive Textbooks Lunch event" href="https://teachbooks.io/updates-for-lunch-lecture-jan-30/" rel="next">Next Post <span class="ast-right-arrow" aria-hidden="true">&rarr;</span></a></div></div>
+				<div class="nav-links"><div class="nav-previous"><a title="AAPT Winter meeting" href="https://teachbooks.io/aapt-winter-meeting/" rel="prev"><span class="ast-left-arrow" aria-hidden="true">←</span> Previous Post</a></div><div class="nav-next"><a title="TU Delft's Open Interactive Textbooks Lunch event" href="https://teachbooks.io/updates-for-lunch-lecture-jan-30/" rel="next">Next Post <span class="ast-right-arrow" aria-hidden="true">→</span></a></div></div>
 		</nav><div class="ast-single-related-posts-container ast-container--fallback"><div class="ast-related-posts-title-section"> <h2 class="ast-related-posts-title"> Related Posts </h2> </div><div class="ast-related-posts-wrapper">						<article class="ast-related-post post-13 post type-post status-publish format-standard has-post-thumbnail hentry category-posts tag-html tag-javascript tag-jupyterbook tag-manual tag-teachbooks tag-tutorial">
 							<div class="ast-related-posts-inner-section">
 								<div class="ast-related-post-content">
@@ -438,7 +444,7 @@ flexibility(document.documentElement);
 											<div class="site-footer-primary-section-1 site-footer-section site-footer-section-1">
 							<aside class="footer-widget-area widget-area site-footer-focus-item footer-widget-area-inner" data-section="sidebar-widgets-footer-widget-2" aria-label="Footer Widget 2" role="region">
 			<section id="block-57" class="widget widget_block widget_text">
-<p class="has-text-align-center has-medium-font-size">TeachBooks: Built with &nbsp;<a href="https://jupyterbook.org/"><img loading="lazy" decoding="async" width="120" height="27" class="wp-image-1929" style="width: 120px;" src="https://teachbooks.io/wp-content/uploads/2024/12/jupyterbook-1.png" alt="" srcset="https://teachbooks.io/wp-content/uploads/2024/12/jupyterbook-1.png 461w, https://teachbooks.io/wp-content/uploads/2024/12/jupyterbook-1-300x68.png 300w" sizes="auto, (max-width: 120px) 100vw, 120px"></a></p>
+<p class="has-text-align-center has-ast-global-color-2-color has-text-color has-medium-font-size">TeachBooks: Built with  <a href="https://jupyterbook.org/v1/" target="_blank" rel="noopener" title="￼"><img loading="lazy" decoding="async" width="120" height="27" class="wp-image-1929" style="width: 120px;" src="https://teachbooks.io/wp-content/uploads/2024/12/jupyterbook-1.png" alt="" srcset="https://teachbooks.io/wp-content/uploads/2024/12/jupyterbook-1.png 461w, https://teachbooks.io/wp-content/uploads/2024/12/jupyterbook-1-300x68.png 300w" sizes="auto, (max-width: 120px) 100vw, 120px"></a> and <a href="https://www.sphinx-doc.org/" target="_blank" rel="noopener" title=""><img loading="lazy" decoding="async" width="31" height="22" class="wp-image-2908" style="width: 31px;" src="https://teachbooks.io/wp-content/uploads/2025/11/sphinx-logo-1.png" alt="Sphinx logo (1)">Sphinx</a></p>
 </section>		</aside>
 						</div>
 										</div>
